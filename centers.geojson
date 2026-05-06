@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARCA Main Hub",
+                "type": "Gallery & Workspace",
+                "city": "Downtown Montreal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5673,
+                    45.5017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mile End Annex",
+                "type": "Photography Studio",
+                "city": "Mile End"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5931,
+                    45.5255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Shore Collective",
+                "type": "Printmaking Lab",
+                "city": "Longueuil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5222,
+                    45.5401
+                ]
+            }
+        }
+    ]
+}

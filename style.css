@@ -1,0 +1,55 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #000;
+}
+
+#map {
+    height: 100vh;
+    /*making map take entire viewport height*/
+    width: 100%;
+    /*making map take entire viewport width*/
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+}
+
+/*Stripping away Leaflet's default tooltip styles and applying a brutalist design*/
+.leaflet-tooltip.brutalist-tooltip {
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    /* border: 1px solid #0d0053; */
+    border-radius: 0px;
+    box-shadow: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    padding: 12px 16px;
+    white-space: nowrap;
+}
+
+/*Hiding the little directional triangle Leaflet usually attaches to tooltips */
+.leaflet-tooltip.brutalist-tooltip::before {
+    display: none;
+}
+
+/*Styling the text inside custom HTML structure */
+.arca-hover-content .hover-title {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+
+.arca-hover-content .hover-details {
+    font-size: 12px;
+    color: #aaaaaa;
+    margin-bottom: 6px;
+}
+
+.arca-hover-content .hover-city {
+    font-size: 10px;
+    color: #47a0ff;
+}

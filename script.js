@@ -24,7 +24,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 }).addTo(map);
 
 // Fetch and load the GeoJSON data
-fetch('centers.geojson')
+fetch('allcenters.geojson')
     .then(response => response.json())
     .then(data => {
         L.geoJSON(data, {

@@ -1,2003 +1,2003 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "3E IMPÉRIAL, Centre D'ESSAI EN ART ACTUEL",
-                "address": "164 rue Cowie, local 310",
-                "city": "Granby",
-                "province": "Québec",
-                "postalCode": "J2G 3V3",
-                "phone": "450-372-7261"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.7271379,
-                    45.3969919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Acess Gallery",
-                "address": "222 East Georgia Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6A 1Z7",
-                "phone": "604-689-2907"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.0988642,
-                    49.2784361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aceartinc",
-                "address": "206 Princess Street",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3G 1L4",
-                "phone": "1(204) 944-9763"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.140358,
-                    49.9015497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "ADA X",
-                "address": "4001 rue Berri, #201",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2L 4H2",
-                "phone": "514-845-7934"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5741612,
-                    45.5216022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Agence Topo",
-                "address": "5445 avenue De Gaspé, espace 608",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B2",
-                "phone": "514-279-8676"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5958995,
-                    45.527071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "AKA Artist-Run Centre",
-                "address": "424 20th Street West",
-                "city": "Saskatoon",
-                "province": "Saskatchewan",
-                "postalCode": "S7M 0X4",
-                "phone": "306-652-0044"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.6759421,
-                    52.1264275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Arnica Artist Run Centre",
-                "address": "7 Seymour Street West",
-                "city": "Kamloops",
-                "province": "British Columbia",
-                "postalCode": "V2C 1E4",
-                "phone": "-"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -120.3393963,
-                    50.6750825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Arprim, Centre D'essai en Art Imprimé",
-                "address": "372 rue Sainte-Catherine Ouest, espace 426",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H3B 1A2",
-                "phone": "514-525-2621"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.567163,
-                    45.5055686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Art City Inc",
-                "address": "616 Broadway",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3C 0W8",
-                "phone": "204-775-9856"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.1552432,
-                    49.885445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Art Gallery of Regina (AGR)",
-                "address": "2420 Elphinstone Street",
-                "city": "Regina",
-                "province": "Saskatchewan",
-                "postalCode": "S4T 7S7",
-                "phone": "306-522-5940"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.6330074,
-                    50.4404994
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Artexte",
-                "address": "2 rue Sainte-Catherine Est, local 301",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2X 1K4",
-                "phone": "514-874-0049"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5635819,
-                    45.5099144
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Articule",
-                "address": "6282 Saint-Hubert",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2S 2M2",
-                "phone": "514-842-9686"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.6011413,
-                    45.5351075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Arts Accessability Network Manitoba (AANM)",
-                "address": "329 Cumberland Avenue, Unit 102",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3B 1T2",
-                "phone": "204-336-2366"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.1454395,
-                    49.8963794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Artspeak",
-                "address": "233 Carrall Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6B 2J2",
-                "phone": "604-688-0051"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.1044668,
-                    49.2827902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Artsplace Artist-Run Centre",
-                "address": "396 St. George Street",
-                "city": "Annapolis Royal",
-                "province": "Nova Scotia",
-                "postalCode": "B0S 1A0",
-                "phone": "902-532-7069"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -65.5152083,
-                    44.7419424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atelier Circulaire",
-                "address": "5445 avenue De Gaspé, espace 105",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B2",
-                "phone": "514-272-8874"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5958995,
-                    45.527071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atelier de l'Île",
-                "address": "1289 rue Jean-Baptiste-Dufresne",
-                "city": "Val-David",
-                "province": "Québec",
-                "postalCode": "J0T 2N0",
-                "phone": "819-322-6359"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.2059122,
-                    46.0297075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atelier Graff",
-                "address": "963 rue Rachel Est",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2J 2J4",
-                "phone": "514-526-9851"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5753339,
-                    45.5251259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atelier Presse Papier",
-                "address": "73, rue Saint-Antoine",
-                "city": "Trois-Rivières",
-                "province": "Québec",
-                "postalCode": "G9A 2J2",
-                "phone": "819-373-1980"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.5428485,
-                    46.3432325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atelier Silex",
-                "address": "1095, rue du Père-Frédéric",
-                "city": "Trois-Rivières",
-                "province": "Québec",
-                "postalCode": "G9A 3S5",
-                "phone": "819-379-0121"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.5428485,
-                    46.3432325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ateliers D'Artistes Touttout",
-                "address": "114, rue Bossé Ouest",
-                "city": "Saguenay",
-                "province": "Québec",
-                "postalCode": "G7J 1L4",
-                "phone": "418-543-5154"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0646162,
-                    48.4289979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atlantic Filmmakers Cooperative",
-                "address": "1800 Argyle Street, Suite 303",
-                "city": "Halifax",
-                "province": "Nova Scotia",
-                "postalCode": "B3J 3N8",
-                "phone": "902-405-4474"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -63.5767414,
-                    44.6482199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Atoll Art Actuel",
-                "address": "150 Boulevard des Bois-Francs Nord",
-                "city": "Victoriaville",
-                "province": "Québec",
-                "postalCode": "G6P 1G1",
-                "phone": "819-758-9510"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.9559342,
-                    46.060527
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "ATSA",
-                "address": "4430, rue Drolet",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2W 2L8",
-                "phone": "514-844-9830"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Axenéo7",
-                "address": "80, rue Hanson",
-                "city": "Gatineau",
-                "province": "Québec",
-                "postalCode": "J8Y 3M5",
-                "phone": "819-771-2122"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.707738,
-                    45.4646602
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "C2 Centre For Craft / Manitoba Craft Council",
-                "address": "1–329 Cumberland Avenue",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3B 1T2",
-                "phone": "204-615-3951"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.154905,
-                    49.8989316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre Bang",
-                "address": "132, rue Racine Est",
-                "city": "Saguenay",
-                "province": "Québec",
-                "postalCode": "G7H 5B5",
-                "phone": "418-543-2744"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0638774,
-                    48.4289197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre Des Arts Actuels Skol",
-                "address": "372, rue Sainte Catherine Ouest, espace 314",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H3B 1A2",
-                "phone": "514-398-9322"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5672123,
-                    45.5057539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre D'Art et de Diffusion Clark",
-                "address": "5455, avenue De Gaspé, local 114",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 2A4",
-                "phone": "514-288-4972"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5969039,
-                    45.5276306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre D'artistes Caravansérail",
-                "address": "274, avenue Michaud",
-                "city": "Rimouski",
-                "province": "Québec",
-                "postalCode": "G5L 6A2",
-                "phone": "418-722-0846"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -68.529968,
-                    48.450155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre D'Artistes Le Lobe",
-                "address": "114, rue Bossé",
-                "city": "Saguenay",
-                "province": "Québec",
-                "postalCode": "G7J 1L5",
-                "phone": "418-690-3182"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0646162,
-                    48.4289979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre D'Artistes Vaste et Vague",
-                "address": "774, boulevard Perron",
-                "city": "Carleton-sur-Mer",
-                "province": "Québec",
-                "postalCode": "G0C 1J0",
-                "phone": "418-364-3123"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -66.1140521,
-                    48.101464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre for Art Tapes",
-                "address": "2238 Maitland Street",
-                "city": "Halifax",
-                "province": "Nova Scotia",
-                "postalCode": "B3K 2Z9",
-                "phone": "902-422-6822"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -63.5840952,
-                    44.6531039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre Materia",
-                "address": "395, boulevard Charest Est",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3H3",
-                "phone": "418-524-0354"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.925051,
-                    46.113614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre Sagamie",
-                "address": "50, rue Saint-Joseph, C. P. 517",
-                "city": "Alma",
-                "province": "Québec",
-                "postalCode": "G8B 5W1",
-                "phone": "418-662-7280"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.651459,
-                    48.548887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Centre Turbine",
-                "address": "4001, rue Berri #303",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2L 4H2",
-                "phone": "514-606-8276"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "CIRCA",
-                "address": "372, rue Sainte-Catherine Ouest, local 444",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H3B 1A2",
-                "phone": "514-393-8248"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5672123,
-                    45.5057539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Common Weal Community Arts INC.",
-                "address": "#424 - 20th Street West",
-                "city": "Saskatoon",
-                "province": "Saskatchewan",
-                "postalCode": "S7M 0X4",
-                "phone": "1-306-380-4223"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.6759421,
-                    52.1264275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Daïmôn",
-                "address": "78, rue Hanson",
-                "city": "Gatineau",
-                "province": "Québec",
-                "postalCode": "J8Y 3M5",
-                "phone": "819-770-8525"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.710976,
-                    45.4277659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dare-Dare Centre de Diffusion D'Art Multidisciplinaire de Montréal",
-                "address": "2515, rue Delisle, local 311",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H3J 1K8",
-                "phone": "514-849-3273"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dazibao",
-                "address": "5455, avenue De Gaspé, espace 109",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B3",
-                "phone": "514-845-0063"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5969039,
-                    45.5276306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Diagonale",
-                "address": "5455, avenue De Gaspé, espace 110",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B3",
-                "phone": "514-524-6645"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5969039,
-                    45.5276306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Eastern Bloc",
-                "address": "55 rue de Louvain Ouest, #53 & 480",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2N 1A4",
-                "phone": "514-284-2106"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.6557345,
-                    45.5444421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Eastern Edge Gallery",
-                "address": "72 Harbour Drive, P.O. Box 2641, Station C",
-                "city": "St. John's",
-                "province": "Newfoundland and Labrador",
-                "postalCode": "A1C 6K1",
-                "phone": "709-739-1882"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -52.7057111,
-                    47.5644649
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Engramme",
-                "address": "501, rue Saint-Vallier Est",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P9",
-                "phone": "418-529-0972"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2084061,
-                    46.8137431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Est-Nord-Est, Résidence D'Artistes",
-                "address": "335, avenue De Gaspé Ouest",
-                "city": "Saint-Jean-Port-Joli",
-                "province": "Québec",
-                "postalCode": "G0R 3G0",
-                "phone": "418-598-6363"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.2692296,
-                    47.2144457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Exmuro Arts Publics",
-                "address": "27, rue Notre-Dame",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 4E9",
-                "phone": "418-529-0909"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.6342189,
-                    45.3094845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Eyelevel Gallery",
-                "address": "2482 Maynard St.",
-                "city": "Halifax",
-                "province": "Nova Scotia",
-                "postalCode": "B3K 3V4",
-                "phone": "902-425-6412"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -63.5911133,
-                    44.6546632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Fillip",
-                "address": "305 Cambie Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6E 2N4",
-                "phone": "604-781-4417"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.1093554,
-                    49.2834423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Folie/Culture",
-                "address": "261 rue Saint-Vallier Est",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P4",
-                "phone": "418-649-0999"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2240381,
-                    46.811879
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Galerie B-312",
-                "address": "372, rue Sainte-Catherine Ouest, espace 403",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H3B 1A2",
-                "phone": "514-874-9423"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5672123,
-                    45.5057539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Galerie Sans Nom",
-                "address": "140, rue Botsford, local 16 and 13",
-                "city": "Moncton",
-                "province": "New Brunswick",
-                "postalCode": "E1C 4X5",
-                "phone": "506-854-5381"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -64.8004265,
-                    46.0985679
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Gallery Gachet",
-                "address": "9 West Hastings Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6B 1G4",
-                "phone": "604-687-2468"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.1050812,
-                    49.2817591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Group Intervention Vidéo",
-                "address": "4001, rue Berri, local 105",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2L 4H2",
-                "phone": "514-271-5506"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Khyber Centre for The Arts",
-                "address": "1880 Hollis St.",
-                "city": "Halifax",
-                "province": "Nova Scotia",
-                "postalCode": "B3J 1W6",
-                "phone": "902-817-6620"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -63.5742823,
-                    44.6500314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "L'Imprimerie, Centre D'Artistes",
-                "address": "3910, rue Sainte-Catherine, Est",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H1W 2G4",
-                "phone": "514-360-1244"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "La Bande Vidéo",
-                "address": "541, rue Saint-Vallier Est, C. P. 2",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P9",
-                "phone": "418-522-5561"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2084061,
-                    46.8137431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "La Centrale Galeries Powerhouse",
-                "address": "4296, boul. Saint-Laurent",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2W 1Z3",
-                "phone": "514-871-0268"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "La Chambre Blanche",
-                "address": "185, rue Christophe-Colomb Est",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3S6",
-                "phone": "418-529-2715"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.834958,
-                    45.3966321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "La Maison Des Artistes Visuels Francophones INC. (MDA)",
-                "address": "219, boulevard Provencher",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R2H 0G4",
-                "phone": "204-237-5964"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.1384584,
-                    49.8955367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Language Plus",
-                "address": "555, rue Collard, C. P. 518",
-                "city": "Alma",
-                "province": "Québec",
-                "postalCode": "G8B 1N1",
-                "phone": "418-668-6635"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.651459,
-                    48.548887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Latitude 53",
-                "address": "10130 – 100 Street",
-                "city": "Edmonton",
-                "province": "Alberta",
-                "postalCode": "T5J 0N8",
-                "phone": "780-423-5353"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -113.4905444,
-                    53.5419938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Le Lieu, Centre en Art Actuel - Les Éditions Intervention",
-                "address": "345, rue du Pont",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 6M4",
-                "phone": "418-529-9680"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.268761,
-                    46.0564946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "L'Écart... Lieu D'Art Actuel",
-                "address": "167, avenue Murdoch, case postale 2273",
-                "city": "Rouyn-Noranda",
-                "province": "Québec",
-                "postalCode": "J9X 5A9",
-                "phone": "819-797-8738"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.0205378,
-                    48.2420524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "L’Œil de Poisson",
-                "address": "541, rue Saint-Vallier Est",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P9",
-                "phone": "418-648-2975"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2084061,
-                    46.8137431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Maison de L'Architecture du Québec",
-                "address": "181, rue Saint-Antoine Ouest",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2Z 1X8",
-                "phone": "514-868-6691"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.4019386,
-                    45.5479165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Malaspina Printmakers",
-                "address": "1555 Duranleau Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6H 3S3",
-                "phone": "604-688-1724"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.1358202,
-                    49.2713854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Martha Street Studio / Manitoba Printmakers Association",
-                "address": "11 Martha Street",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3B 1A2",
-                "phone": "204-779-6253"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.1352109,
-                    49.900353
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mountain Standard Time Performative Art",
-                "address": "#206A, 223 – 12th Ave SW",
-                "city": "Calgary",
-                "province": "Alberta",
-                "postalCode": "T2R 0G9",
-                "phone": "403-837-6678"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -114.057541,
-                    51.0456064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Neutral Ground Artist Run Centre",
-                "address": "1835 Scarth Street",
-                "city": "Regina",
-                "province": "Saskatchewan",
-                "postalCode": "S4P 2G9",
-                "phone": "306-522-7166"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.6104928,
-                    50.4496326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "OBORO",
-                "address": "4001, rue Berri, espace 301",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2L 4H2",
-                "phone": "514-844-3250"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Occurence",
-                "address": "5455, avenue De Gaspé, room 108",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B3",
-                "phone": "514-907-4535"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5969039,
-                    45.5276306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Open Space",
-                "address": "510 Fort Street, 2nd floor",
-                "city": "Victoria",
-                "province": "British Columbia",
-                "postalCode": "V8W 1E6",
-                "phone": "250-383-8833"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.3691308,
-                    48.4252584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Optica, Centre D'Art Contemporain",
-                "address": "5445, avenue de Gaspé, espace 106",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B2",
-                "phone": "514-874-1666"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5737184,
-                    45.5520355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Or Gallery",
-                "address": "236 Pender St East",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6A 1T7",
-                "phone": "604-683-7395"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.0987641,
-                    49.2801031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Other Sights For Artists' Projects Association",
-                "address": "-",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "-",
-                "phone": "604-254-5598"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.113952,
-                    49.2608724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Oxygen Art Centre",
-                "address": "3-320 Vernon Street",
-                "city": "Nelson",
-                "province": "British Columbia",
-                "postalCode": "V1L 4E4",
-                "phone": "250-352-6322"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.2983034,
-                    49.4913379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Panache Art Actuel",
-                "address": "410, avenue Évangeline",
-                "city": "Sept-Îles",
-                "province": "Québec",
-                "postalCode": "G4R 2N5",
-                "phone": "418-218-1685"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -66.3790642,
-                    50.2109579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Perte De Signal",
-                "address": "5445, avenue De Gaspé, espace 107",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2T 3B3",
-                "phone": "514-273-4813"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5737184,
-                    45.5520355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Platform Centre for Photographic + Digital Arts",
-                "address": "121-100 Arthur Street",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3B 1H3",
-                "phone": "204-942-8183"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.140746,
-                    49.8976765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Praxis Art Actuel",
-                "address": "37, rue Turgeon",
-                "city": "Sainte-Thérèse",
-                "province": "Québec",
-                "postalCode": "J7E 1X1",
-                "phone": "450-434-7648"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.7505235,
-                    45.4219715
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Productions Réalisations Indépendantes de Montréal - PRIM",
-                "address": "2180, rue Fullum",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2K 3N9",
-                "phone": "514-524-2421"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Project Space",
-                "address": "2-236 East Pender Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6A 1T7",
-                "phone": "-"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.0985279,
-                    49.2803706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Regart, Centre D'Artistes en Art Actuel",
-                "address": "6018 Rue Saint-Laurent",
-                "city": "Lévis",
-                "province": "Québec",
-                "postalCode": "G6V 3P4",
-                "phone": "418-837-4099"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.1859075,
-                    46.8123013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sans-Atelier",
-                "address": "209 Avenue D South",
-                "city": "Saskatoon",
-                "province": "Saskatchewan",
-                "postalCode": "S7M 1P8",
-                "phone": "-"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.675603,
-                    52.1275581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Spira",
-                "address": "541, rue Saint-Vallier Est, 4e étage",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P9",
-                "phone": "418-523-1275"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2084061,
-                    46.8137431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sporobole",
-                "address": "74, rue Albert",
-                "city": "Sherbrooke",
-                "province": "Québec",
-                "postalCode": "J1H 1M9",
-                "phone": "819-821-2326"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.889038,
-                    45.403271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "St. Michael's Printshop",
-                "address": "72 Harbour Drive, 2nd Floor, P.O. Box 193, Station C",
-                "city": "St. John's",
-                "province": "Newfoundland and Labrador",
-                "postalCode": "A1C 5J2",
-                "phone": "709-754-2931"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -52.7057111,
-                    47.5644649
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stride Gallery",
-                "address": "625 11 Avenue SW, Unit 220",
-                "city": "Calgary",
-                "province": "Alberta",
-                "postalCode": "T2R 0E1",
-                "phone": "403-262-8507"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -114.075425,
-                    51.0424986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Struts Gallery & Faucet Media Arts Centre",
-                "address": "7 Lorne Street",
-                "city": "Sackville",
-                "province": "New Brunswick",
-                "postalCode": "E4L 3Z6",
-                "phone": "506-536-1211"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -64.3666768,
-                    45.8967213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Arbour Collective",
-                "address": "31-1595 Summit Drive",
-                "city": "Kamloops",
-                "province": "British Columbia",
-                "postalCode": "V2E 1E9",
-                "phone": "778-471-1184"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -120.3401404,
-                    50.6561529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The Indigenous Peoples' Artist Collective of Prince Albert INC. (IPAC)",
-                "address": "1010 Central Avenue",
-                "city": "Prince Albert",
-                "province": "Saskatchewan",
-                "postalCode": "S6V 4V5",
-                "phone": "306-763-8023"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -105.7537847,
-                    53.2037045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "The New Gallery",
-                "address": "208 Centre Street S",
-                "city": "Calgary",
-                "province": "Alberta",
-                "postalCode": "T2G 2B6",
-                "phone": "403-233-2399"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -114.0626697,
-                    51.0507531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "This Town is Small INC.",
-                "address": "115 Richmond Street",
-                "city": "Charlottetown",
-                "province": "Prince Edward Island",
-                "postalCode": "C1A 1H7",
-                "phone": "902-314-0772"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -63.1275,
-                    46.2334689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Trap/Door Artist Run Centre",
-                "address": "-",
-                "city": "Lethbridge",
-                "province": "Alberta",
-                "postalCode": "-",
-                "phone": "-"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.8331033,
-                    49.6945782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "UNIT/PITT",
-                "address": "2954 West 4th Ave",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V6K1R4",
-                "phone": "604-974-8689"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.1714674,
-                    49.2681413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VASA Gallery and Studios",
-                "address": "25 Sir Winston Churchill Ave",
-                "city": "St. Albert",
-                "province": "Alberta",
-                "postalCode": "T8N 2S7",
-                "phone": "780-460-5990"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -113.6284635,
-                    53.6303171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Verticale - Centre D'Artistes",
-                "address": "412 - 397, boulevard des Prairies Ouest",
-                "city": "Laval",
-                "province": "Québec",
-                "postalCode": "H7N 2W6",
-                "phone": "450-934-6042"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.7100119,
-                    45.545857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vidéo Femmes",
-                "address": "291, rue Saint-Vallier Est, bureau 103",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P5",
-                "phone": "418-529-9188"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.533456,
-                    46.112691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Video Pool Media Arts Centre",
-                "address": "221-100 Arthur Street",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3B 1H3",
-                "phone": "204-949-9134"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.140746,
-                    49.8976765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vidéographe",
-                "address": "4550 rue Garnier",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2J 3S7",
-                "phone": "514-521-2116"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5775809,
-                    45.5311577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VIVA! Art Action",
-                "address": "-",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "-",
-                "phone": "-"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5698065,
-                    45.5031824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VIVO Media Arts Centre",
-                "address": "2625 Kaslo Street",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V5M 3G9",
-                "phone": "604-872-8337"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.0470862,
-                    49.2527814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Void Gallery",
-                "address": "312 Avenue B South",
-                "city": "Saskatoon",
-                "province": "Saskatchewan",
-                "postalCode": "S7M 1M6",
-                "phone": "306-850-6545"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.6715957,
-                    52.1255665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VOIX, Centre de L'Image Contemporaine",
-                "address": "2, rue Sainte-Catherine Est, 4th floor",
-                "city": "Montréal",
-                "province": "Québec",
-                "postalCode": "H2X 1K4",
-                "phone": "514-390-0382"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.5634264,
-                    45.5099901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VU, Centre de Diffusion et de Production de la Photographie",
-                "address": "580, Côte d’Abraham",
-                "city": "Québec",
-                "province": "Québec",
-                "postalCode": "G1K 3P9",
-                "phone": "418-640-2585"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.2084061,
-                    46.8137431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Western Front Society",
-                "address": "303 East 8th Avenue",
-                "city": "Vancouver",
-                "province": "British Columbia",
-                "postalCode": "V5T 1S1",
-                "phone": "604-876-9343"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.0986846,
-                    49.2638614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Winnipeg Film Group",
-                "address": "304-100 Arthur Street",
-                "city": "Winnipeg",
-                "province": "Manitoba",
-                "postalCode": "R3B 1H3",
-                "phone": "204-925-3456"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.140746,
-                    49.8976765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Xchanges Artists' Gallery and Studios",
-                "address": "2333 Government Street, Suite 6E",
-                "city": "Victoria",
-                "province": "British Columbia",
-                "postalCode": "V8T 4P4",
-                "phone": "1-250-382-0442"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -123.3664526,
-                    48.4347074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Yellowknife Artist Run Community Centre",
-                "address": "4913 50th Street",
-                "city": "Yellowknife",
-                "province": "Northwest Territories",
-                "postalCode": "X1A3X7",
-                "phone": "867-446-9099"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -114.3728786,
-                    62.4548032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Zocalo, Centre D'Artistes en Art Imprimé",
-                "address": "80, rue Saint-Jean",
-                "city": "Longueuil",
-                "province": "Québec",
-                "postalCode": "J4H 2W9",
-                "phone": "450-679-5341"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.4644578,
-                    45.521906
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3E IMPÉRIAL, Centre D'ESSAI EN ART ACTUEL",
+        "address": "164 rue Cowie, local 310",
+        "city": "Granby",
+        "province": "Québec",
+        "postalCode": "J2G 3V3",
+        "phone": "450-372-7261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7271379,
+          45.3969919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acess Gallery",
+        "address": "222 East Georgia Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6A 1Z7",
+        "phone": "604-689-2907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0988642,
+          49.2784361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aceartinc",
+        "address": "206 Princess Street",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3G 1L4",
+        "phone": "1(204) 944-9763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.140358,
+          49.9015497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ADA X",
+        "address": "4001 rue Berri, #201",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2L 4H2",
+        "phone": "514-845-7934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5741612,
+          45.5216022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agence Topo",
+        "address": "5445 avenue De Gaspé, espace 608",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B2",
+        "phone": "514-279-8676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5958995,
+          45.527071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AKA Artist-Run Centre",
+        "address": "424 20th Street West",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "postalCode": "S7M 0X4",
+        "phone": "306-652-0044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6759421,
+          52.1264275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arnica Artist Run Centre",
+        "address": "7 Seymour Street West",
+        "city": "Kamloops",
+        "province": "British Columbia",
+        "postalCode": "V2C 1E4",
+        "phone": "-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3393963,
+          50.6750825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arprim, Centre D'essai en Art Imprimé",
+        "address": "372 rue Sainte-Catherine Ouest, espace 426",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H3B 1A2",
+        "phone": "514-525-2621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567163,
+          45.5055686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art City Inc",
+        "address": "616 Broadway",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3C 0W8",
+        "phone": "204-775-9856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1552432,
+          49.885445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Gallery of Regina (AGR)",
+        "address": "2420 Elphinstone Street",
+        "city": "Regina",
+        "province": "Saskatchewan",
+        "postalCode": "S4T 7S7",
+        "phone": "306-522-5940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6330074,
+          50.4404994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artexte",
+        "address": "2 rue Sainte-Catherine Est, local 301",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2X 1K4",
+        "phone": "514-874-0049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5635819,
+          45.5099144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Articule",
+        "address": "6282 Saint-Hubert",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2S 2M2",
+        "phone": "514-842-9686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6011413,
+          45.5351075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arts Accessability Network Manitoba (AANM)",
+        "address": "329 Cumberland Avenue, Unit 102",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3B 1T2",
+        "phone": "204-336-2366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1454395,
+          49.8963794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artspeak",
+        "address": "233 Carrall Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6B 2J2",
+        "phone": "604-688-0051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1044668,
+          49.2827902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artsplace Artist-Run Centre",
+        "address": "396 St. George Street",
+        "city": "Annapolis Royal",
+        "province": "Nova Scotia",
+        "postalCode": "B0S 1A0",
+        "phone": "902-532-7069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5152083,
+          44.7419424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atelier Circulaire",
+        "address": "5445 avenue De Gaspé, espace 105",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B2",
+        "phone": "514-272-8874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5958995,
+          45.527071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atelier de l'Île",
+        "address": "1289 rue Jean-Baptiste-Dufresne",
+        "city": "Val-David",
+        "province": "Québec",
+        "postalCode": "J0T 2N0",
+        "phone": "819-322-6359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2059122,
+          46.0297075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atelier Graff",
+        "address": "963 rue Rachel Est",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2J 2J4",
+        "phone": "514-526-9851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5753339,
+          45.5251259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atelier Presse Papier",
+        "address": "73, rue Saint-Antoine",
+        "city": "Trois-Rivières",
+        "province": "Québec",
+        "postalCode": "G9A 2J2",
+        "phone": "819-373-1980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5428485,
+          46.3432325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atelier Silex",
+        "address": "1095, rue du Père-Frédéric",
+        "city": "Trois-Rivières",
+        "province": "Québec",
+        "postalCode": "G9A 3S5",
+        "phone": "819-379-0121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5428485,
+          46.3432325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ateliers D'Artistes Touttout",
+        "address": "114, rue Bossé Ouest",
+        "city": "Saguenay",
+        "province": "Québec",
+        "postalCode": "G7J 1L4",
+        "phone": "418-543-5154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0646162,
+          48.4289979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantic Filmmakers Cooperative",
+        "address": "1800 Argyle Street, Suite 303",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "postalCode": "B3J 3N8",
+        "phone": "902-405-4474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5767414,
+          44.6482199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atoll Art Actuel",
+        "address": "150 Boulevard des Bois-Francs Nord",
+        "city": "Victoriaville",
+        "province": "Québec",
+        "postalCode": "G6P 1G1",
+        "phone": "819-758-9510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9559342,
+          46.060527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATSA",
+        "address": "4430, rue Drolet",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2W 2L8",
+        "phone": "514-844-9830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Axenéo7",
+        "address": "80, rue Hanson",
+        "city": "Gatineau",
+        "province": "Québec",
+        "postalCode": "J8Y 3M5",
+        "phone": "819-771-2122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.707738,
+          45.4646602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C2 Centre For Craft / Manitoba Craft Council",
+        "address": "1–329 Cumberland Avenue",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3B 1T2",
+        "phone": "204-615-3951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.154905,
+          49.8989316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Bang",
+        "address": "132, rue Racine Est",
+        "city": "Saguenay",
+        "province": "Québec",
+        "postalCode": "G7H 5B5",
+        "phone": "418-543-2744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0638774,
+          48.4289197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Des Arts Actuels Skol",
+        "address": "372, rue Sainte Catherine Ouest, espace 314",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H3B 1A2",
+        "phone": "514-398-9322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5672123,
+          45.5057539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre D'Art et de Diffusion Clark",
+        "address": "5455, avenue De Gaspé, local 114",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 2A4",
+        "phone": "514-288-4972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5969039,
+          45.5276306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre D'artistes Caravansérail",
+        "address": "274, avenue Michaud",
+        "city": "Rimouski",
+        "province": "Québec",
+        "postalCode": "G5L 6A2",
+        "phone": "418-722-0846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.529968,
+          48.450155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre D'Artistes Le Lobe",
+        "address": "114, rue Bossé",
+        "city": "Saguenay",
+        "province": "Québec",
+        "postalCode": "G7J 1L5",
+        "phone": "418-690-3182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0646162,
+          48.4289979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre D'Artistes Vaste et Vague",
+        "address": "774, boulevard Perron",
+        "city": "Carleton-sur-Mer",
+        "province": "Québec",
+        "postalCode": "G0C 1J0",
+        "phone": "418-364-3123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1140521,
+          48.101464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre for Art Tapes",
+        "address": "2238 Maitland Street",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "postalCode": "B3K 2Z9",
+        "phone": "902-422-6822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5840952,
+          44.6531039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Materia",
+        "address": "395, boulevard Charest Est",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3H3",
+        "phone": "418-524-0354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.925051,
+          46.113614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Sagamie",
+        "address": "50, rue Saint-Joseph, C. P. 517",
+        "city": "Alma",
+        "province": "Québec",
+        "postalCode": "G8B 5W1",
+        "phone": "418-662-7280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.651459,
+          48.548887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Turbine",
+        "address": "4001, rue Berri #303",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2L 4H2",
+        "phone": "514-606-8276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIRCA",
+        "address": "372, rue Sainte-Catherine Ouest, local 444",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H3B 1A2",
+        "phone": "514-393-8248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5672123,
+          45.5057539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Common Weal Community Arts INC.",
+        "address": "#424 - 20th Street West",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "postalCode": "S7M 0X4",
+        "phone": "1-306-380-4223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6759421,
+          52.1264275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daïmôn",
+        "address": "78, rue Hanson",
+        "city": "Gatineau",
+        "province": "Québec",
+        "postalCode": "J8Y 3M5",
+        "phone": "819-770-8525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.710976,
+          45.4277659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dare-Dare Centre de Diffusion D'Art Multidisciplinaire de Montréal",
+        "address": "2515, rue Delisle, local 311",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H3J 1K8",
+        "phone": "514-849-3273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dazibao",
+        "address": "5455, avenue De Gaspé, espace 109",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B3",
+        "phone": "514-845-0063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5969039,
+          45.5276306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diagonale",
+        "address": "5455, avenue De Gaspé, espace 110",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B3",
+        "phone": "514-524-6645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5969039,
+          45.5276306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Bloc",
+        "address": "55 rue de Louvain Ouest, #53 & 480",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2N 1A4",
+        "phone": "514-284-2106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6557345,
+          45.5444421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Edge Gallery",
+        "address": "72 Harbour Drive, P.O. Box 2641, Station C",
+        "city": "St. John's",
+        "province": "Newfoundland and Labrador",
+        "postalCode": "A1C 6K1",
+        "phone": "709-739-1882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7057111,
+          47.5644649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engramme",
+        "address": "501, rue Saint-Vallier Est",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P9",
+        "phone": "418-529-0972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Est-Nord-Est, Résidence D'Artistes",
+        "address": "335, avenue De Gaspé Ouest",
+        "city": "Saint-Jean-Port-Joli",
+        "province": "Québec",
+        "postalCode": "G0R 3G0",
+        "phone": "418-598-6363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2692296,
+          47.2144457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exmuro Arts Publics",
+        "address": "27, rue Notre-Dame",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 4E9",
+        "phone": "418-529-0909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6342189,
+          45.3094845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eyelevel Gallery",
+        "address": "2482 Maynard St.",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "postalCode": "B3K 3V4",
+        "phone": "902-425-6412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5911133,
+          44.6546632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fillip",
+        "address": "305 Cambie Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6E 2N4",
+        "phone": "604-781-4417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1093554,
+          49.2834423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Folie/Culture",
+        "address": "261 rue Saint-Vallier Est",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P4",
+        "phone": "418-649-0999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2240381,
+          46.811879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galerie B-312",
+        "address": "372, rue Sainte-Catherine Ouest, espace 403",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H3B 1A2",
+        "phone": "514-874-9423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5672123,
+          45.5057539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galerie Sans Nom",
+        "address": "140, rue Botsford, local 16 and 13",
+        "city": "Moncton",
+        "province": "New Brunswick",
+        "postalCode": "E1C 4X5",
+        "phone": "506-854-5381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8004265,
+          46.0985679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallery Gachet",
+        "address": "9 West Hastings Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6B 1G4",
+        "phone": "604-687-2468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1050812,
+          49.2817591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Group Intervention Vidéo",
+        "address": "4001, rue Berri, local 105",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2L 4H2",
+        "phone": "514-271-5506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khyber Centre for The Arts",
+        "address": "1880 Hollis St.",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "postalCode": "B3J 1W6",
+        "phone": "902-817-6620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5742823,
+          44.6500314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Imprimerie, Centre D'Artistes",
+        "address": "3910, rue Sainte-Catherine, Est",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H1W 2G4",
+        "phone": "514-360-1244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Bande Vidéo",
+        "address": "541, rue Saint-Vallier Est, C. P. 2",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P9",
+        "phone": "418-522-5561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Centrale Galeries Powerhouse",
+        "address": "4296, boul. Saint-Laurent",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2W 1Z3",
+        "phone": "514-871-0268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Chambre Blanche",
+        "address": "185, rue Christophe-Colomb Est",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3S6",
+        "phone": "418-529-2715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.834958,
+          45.3966321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Maison Des Artistes Visuels Francophones INC. (MDA)",
+        "address": "219, boulevard Provencher",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R2H 0G4",
+        "phone": "204-237-5964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384584,
+          49.8955367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Language Plus",
+        "address": "555, rue Collard, C. P. 518",
+        "city": "Alma",
+        "province": "Québec",
+        "postalCode": "G8B 1N1",
+        "phone": "418-668-6635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.651459,
+          48.548887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Latitude 53",
+        "address": "10130 – 100 Street",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "postalCode": "T5J 0N8",
+        "phone": "780-423-5353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4905444,
+          53.5419938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Lieu, Centre en Art Actuel - Les Éditions Intervention",
+        "address": "345, rue du Pont",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 6M4",
+        "phone": "418-529-9680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.268761,
+          46.0564946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Écart... Lieu D'Art Actuel",
+        "address": "167, avenue Murdoch, case postale 2273",
+        "city": "Rouyn-Noranda",
+        "province": "Québec",
+        "postalCode": "J9X 5A9",
+        "phone": "819-797-8738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0205378,
+          48.2420524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L’Œil de Poisson",
+        "address": "541, rue Saint-Vallier Est",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P9",
+        "phone": "418-648-2975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison de L'Architecture du Québec",
+        "address": "181, rue Saint-Antoine Ouest",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2Z 1X8",
+        "phone": "514-868-6691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4019386,
+          45.5479165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malaspina Printmakers",
+        "address": "1555 Duranleau Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6H 3S3",
+        "phone": "604-688-1724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1358202,
+          49.2713854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martha Street Studio / Manitoba Printmakers Association",
+        "address": "11 Martha Street",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3B 1A2",
+        "phone": "204-779-6253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1352109,
+          49.900353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountain Standard Time Performative Art",
+        "address": "#206A, 223 – 12th Ave SW",
+        "city": "Calgary",
+        "province": "Alberta",
+        "postalCode": "T2R 0G9",
+        "phone": "403-837-6678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.057541,
+          51.0456064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neutral Ground Artist Run Centre",
+        "address": "1835 Scarth Street",
+        "city": "Regina",
+        "province": "Saskatchewan",
+        "postalCode": "S4P 2G9",
+        "phone": "306-522-7166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6104928,
+          50.4496326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OBORO",
+        "address": "4001, rue Berri, espace 301",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2L 4H2",
+        "phone": "514-844-3250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Occurence",
+        "address": "5455, avenue De Gaspé, room 108",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B3",
+        "phone": "514-907-4535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5969039,
+          45.5276306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Open Space",
+        "address": "510 Fort Street, 2nd floor",
+        "city": "Victoria",
+        "province": "British Columbia",
+        "postalCode": "V8W 1E6",
+        "phone": "250-383-8833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3691308,
+          48.4252584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Optica, Centre D'Art Contemporain",
+        "address": "5445, avenue de Gaspé, espace 106",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B2",
+        "phone": "514-874-1666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5737184,
+          45.5520355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Or Gallery",
+        "address": "236 Pender St East",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6A 1T7",
+        "phone": "604-683-7395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0987641,
+          49.2801031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Other Sights For Artists' Projects Association",
+        "address": "-",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "-",
+        "phone": "604-254-5598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113952,
+          49.2608724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxygen Art Centre",
+        "address": "3-320 Vernon Street",
+        "city": "Nelson",
+        "province": "British Columbia",
+        "postalCode": "V1L 4E4",
+        "phone": "250-352-6322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2983034,
+          49.4913379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panache Art Actuel",
+        "address": "410, avenue Évangeline",
+        "city": "Sept-Îles",
+        "province": "Québec",
+        "postalCode": "G4R 2N5",
+        "phone": "418-218-1685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3790642,
+          50.2109579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perte De Signal",
+        "address": "5445, avenue De Gaspé, espace 107",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2T 3B3",
+        "phone": "514-273-4813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5737184,
+          45.5520355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platform Centre for Photographic + Digital Arts",
+        "address": "121-100 Arthur Street",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3B 1H3",
+        "phone": "204-942-8183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.140746,
+          49.8976765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Art Actuel",
+        "address": "37, rue Turgeon",
+        "city": "Sainte-Thérèse",
+        "province": "Québec",
+        "postalCode": "J7E 1X1",
+        "phone": "450-434-7648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7505235,
+          45.4219715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Productions Réalisations Indépendantes de Montréal - PRIM",
+        "address": "2180, rue Fullum",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2K 3N9",
+        "phone": "514-524-2421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Project Space",
+        "address": "2-236 East Pender Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6A 1T7",
+        "phone": "-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0985279,
+          49.2803706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regart, Centre D'Artistes en Art Actuel",
+        "address": "6018 Rue Saint-Laurent",
+        "city": "Lévis",
+        "province": "Québec",
+        "postalCode": "G6V 3P4",
+        "phone": "418-837-4099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1859075,
+          46.8123013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sans-Atelier",
+        "address": "209 Avenue D South",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "postalCode": "S7M 1P8",
+        "phone": "-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.675603,
+          52.1275581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spira",
+        "address": "541, rue Saint-Vallier Est, 4e étage",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P9",
+        "phone": "418-523-1275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sporobole",
+        "address": "74, rue Albert",
+        "city": "Sherbrooke",
+        "province": "Québec",
+        "postalCode": "J1H 1M9",
+        "phone": "819-821-2326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.889038,
+          45.403271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael's Printshop",
+        "address": "72 Harbour Drive, 2nd Floor, P.O. Box 193, Station C",
+        "city": "St. John's",
+        "province": "Newfoundland and Labrador",
+        "postalCode": "A1C 5J2",
+        "phone": "709-754-2931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7057111,
+          47.5644649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stride Gallery",
+        "address": "625 11 Avenue SW, Unit 220",
+        "city": "Calgary",
+        "province": "Alberta",
+        "postalCode": "T2R 0E1",
+        "phone": "403-262-8507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.075425,
+          51.0424986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Struts Gallery & Faucet Media Arts Centre",
+        "address": "7 Lorne Street",
+        "city": "Sackville",
+        "province": "New Brunswick",
+        "postalCode": "E4L 3Z6",
+        "phone": "506-536-1211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3666768,
+          45.8967213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Arbour Collective",
+        "address": "31-1595 Summit Drive",
+        "city": "Kamloops",
+        "province": "British Columbia",
+        "postalCode": "V2E 1E9",
+        "phone": "778-471-1184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3401404,
+          50.6561529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Indigenous Peoples' Artist Collective of Prince Albert INC. (IPAC)",
+        "address": "1010 Central Avenue",
+        "city": "Prince Albert",
+        "province": "Saskatchewan",
+        "postalCode": "S6V 4V5",
+        "phone": "306-763-8023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7537847,
+          53.2037045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The New Gallery",
+        "address": "208 Centre Street S",
+        "city": "Calgary",
+        "province": "Alberta",
+        "postalCode": "T2G 2B6",
+        "phone": "403-233-2399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0626697,
+          51.0507531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "This Town is Small INC.",
+        "address": "115 Richmond Street",
+        "city": "Charlottetown",
+        "province": "Prince Edward Island",
+        "postalCode": "C1A 1H7",
+        "phone": "902-314-0772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1275,
+          46.2334689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trap/Door Artist Run Centre",
+        "address": "-",
+        "city": "Lethbridge",
+        "province": "Alberta",
+        "postalCode": "-",
+        "phone": "-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8331033,
+          49.6945782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UNIT/PITT",
+        "address": "2954 West 4th Ave",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V6K1R4",
+        "phone": "604-974-8689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1714674,
+          49.2681413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VASA Gallery and Studios",
+        "address": "25 Sir Winston Churchill Ave",
+        "city": "St. Albert",
+        "province": "Alberta",
+        "postalCode": "T8N 2S7",
+        "phone": "780-460-5990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6284635,
+          53.6303171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verticale - Centre D'Artistes",
+        "address": "412 - 397, boulevard des Prairies Ouest",
+        "city": "Laval",
+        "province": "Québec",
+        "postalCode": "H7N 2W6",
+        "phone": "450-934-6042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7100119,
+          45.545857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidéo Femmes",
+        "address": "291, rue Saint-Vallier Est, bureau 103",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P5",
+        "phone": "418-529-9188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.533456,
+          46.112691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Video Pool Media Arts Centre",
+        "address": "221-100 Arthur Street",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3B 1H3",
+        "phone": "204-949-9134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.140746,
+          49.8976765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidéographe",
+        "address": "4550 rue Garnier",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2J 3S7",
+        "phone": "514-521-2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5775809,
+          45.5311577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VIVA! Art Action",
+        "address": "-",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "-",
+        "phone": "-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VIVO Media Arts Centre",
+        "address": "2625 Kaslo Street",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V5M 3G9",
+        "phone": "604-872-8337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0470862,
+          49.2527814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Void Gallery",
+        "address": "312 Avenue B South",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "postalCode": "S7M 1M6",
+        "phone": "306-850-6545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6715957,
+          52.1255665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VOIX, Centre de L'Image Contemporaine",
+        "address": "2, rue Sainte-Catherine Est, 4th floor",
+        "city": "Montréal",
+        "province": "Québec",
+        "postalCode": "H2X 1K4",
+        "phone": "514-390-0382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5634264,
+          45.5099901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VU, Centre de Diffusion et de Production de la Photographie",
+        "address": "580, Côte d’Abraham",
+        "city": "Québec",
+        "province": "Québec",
+        "postalCode": "G1K 3P9",
+        "phone": "418-640-2585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Front Society",
+        "address": "303 East 8th Avenue",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "postalCode": "V5T 1S1",
+        "phone": "604-876-9343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0986846,
+          49.2638614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winnipeg Film Group",
+        "address": "304-100 Arthur Street",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "postalCode": "R3B 1H3",
+        "phone": "204-925-3456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.140746,
+          49.8976765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xchanges Artists' Gallery and Studios",
+        "address": "2333 Government Street, Suite 6E",
+        "city": "Victoria",
+        "province": "British Columbia",
+        "postalCode": "V8T 4P4",
+        "phone": "1-250-382-0442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3664526,
+          48.4347074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowknife Artist Run Community Centre",
+        "address": "4913 50th Street",
+        "city": "Yellowknife",
+        "province": "Northwest Territories",
+        "postalCode": "X1A3X7",
+        "phone": "867-446-9099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3728786,
+          62.4548032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zocalo, Centre D'Artistes en Art Imprimé",
+        "address": "80, rue Saint-Jean",
+        "city": "Longueuil",
+        "province": "Québec",
+        "postalCode": "J4H 2W9",
+        "phone": "450-679-5341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4644578,
+          45.521906
+        ]
+      }
+    }
+  ]
 }

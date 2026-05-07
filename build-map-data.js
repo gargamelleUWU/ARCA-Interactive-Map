@@ -2,6 +2,7 @@ const fs = require('fs');
 const csv = require('csv-parser');
 
 const rawList = [];
+const failedList = [];
 const geojson = {
     type: "FeatureCollection",
     features: []
@@ -56,6 +57,25 @@ fs.createReadStream('centers.csv')
                     console.log(`[SUCCESS] Mapped: ${center.name}`);
                 } else {
                     console.log(`[FAILED] Coordinates not found for: ${searchQuery}`);
+
+                    const failedFeatureTemplate = {
+                        type: "Feature",
+                        properties: {
+                            name: center.name,
+                            address: center.address,
+                            city: center.city,
+                            province: center.province,
+                            postalCode: center.postal_code,
+                            phone: center.phone
+                        },
+                        geometry: {
+                            type: "Point",
+                            coordinates: [0, 0] // <-- Placeholder for you to replace manually!
+                        }
+                    };
+
+                    failedList.push(failedFeatureTemplate);
+
                 }
 
                 // CRITICAL: Pause for 1.5 seconds between API requests
@@ -68,5 +88,11 @@ fs.createReadStream('centers.csv')
 
         // 4. Save the compiled GeoJSON to your folder
         fs.writeFileSync('centers.geojson', JSON.stringify(geojson, null, 2));
-        console.log("\nProcess Complete! centers.geojson is ready for Leaflet.");
+        if (failedList.length > 0) {
+            fs.writeFileSync('failed-centers.json', JSON.stringify(failedList, null, 2));
+            console.log(`\nProcess Complete! centers.geojson is ready for Leaflet.`);
+            console.log(`${failedList.length} centers failed to geocode. Check 'failed-centers.json' for details.`);
+        } else {
+            console.log("\nProcess Complete! centers.geojson is ready for Leaflet.");
+        }
     });

@@ -2,12 +2,12 @@
 //Starting location and zoom level.
 // Test comment
 var bound = [
-    [25.0, -150.0],  //Southwest corner
-    [70.0, -40.0]   //Northeast corner
+    [38.0, -150.0],  //Southwest corner
+    [67.0, -40.0]   //Northeast corner
 ]
 
 var map = L.map('map', {
-    maxZoom: 16,    //The closest users can zoom in
+    maxZoom: 20,    //The closest users can zoom in
     minZoom: 5,     //The furthest users can zoom out
     maxBounds: bound, //Restrict the map to the specified bounds
     maxBoundsViscosity: 1.0, //Prevent users from panning outside the bounds
@@ -20,7 +20,7 @@ var map = L.map('map', {
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
     subdomains: 'abcd',
-    maxZoom: 18
+    maxZoom: 20
 }).addTo(map);
 
 // Fetch and load the GeoJSON data

@@ -2,8 +2,8 @@
 //Starting location and zoom level.
 // Test comment
 var bound = [
-    [38.0, -150.0],  //Southwest corner
-    [67.0, -40.0]   //Northeast corner
+    [38.0, -145.0],  //Southwest corner
+    [67.0, -45.0]   //Northeast corner
 ]
 
 var map = L.map('map', {

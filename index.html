@@ -5,17 +5,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ARCA Interactive Map</title>
+    <!-- CSS loaded in  the head-->
+    <!-- CSS for leaflet-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <!-- CSS for markerCluster-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <!--CSS for markerCluster-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <!-- My Custom CSS-->
     <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
 
-    <div id="map">
+    <div class="map-controls">
+        <input type="text" id="searchName" placeholder="Search by name...">
+        <!-- make check boxes since we can select multiple disiplines-->
+        <select id="filterType">
+            <option value="all">All Types</option>
+            <option value="Architecture">Architecture</option>
+            <option value="Crafts">Crafts</option>
+            <option value="Film/Video">Film/Video</option>
+            <option value="Interdisciplinary">Interdisciplinary</option>
+            <option value="Media and Digital Arts">Media and Digital Arts</option>
+            <option value="Performance and Live Arts">Performance and Live Arts</option>
+            <option value="Printmaking">Printmaking</option>
+            <option value="Publications and Publishing">Publications and Publishing</option>
+            <option value="Sound Art and Music">Sound Art and Music</option>
+            <option value="Visual Arts">Visual Arts</option>
+        </select>
+
+        <select id="filterCity">
+            <option value="all">All Cities</option>
+            <option value="Montreal">Montreal</option>
+            <option value="Toronto">Toronto</option>
+        </select>
     </div>
 
-    <!-- Leaflet JS -->
+    <div id="map"></div>
+
+    <!-- 1. Main Leaflet Library -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <!-- 2. MarkerCluster Plugin (MUST come after Leaflet) -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+    <!-- 3. Your Custom Code (MUST come last) -->
     <script src="script.js"></script>
 </body>
 

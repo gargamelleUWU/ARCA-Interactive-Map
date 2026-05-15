@@ -1,11 +1,11 @@
-// Initializing the map
-//Starting location and zoom level.
-// Test comment
+
+// Setting bounds in an array
 var bound = [
-    [38.0, -145.0],  //Southwest corner
-    [67.0, -45.0]   //Northeast corner
+    [38.0, -145.0],     // Southwest corner
+    [67.0, -45.0]       // Northeast corner
 ]
 
+// Initializing the map
 var map = L.map('map', {
     maxZoom: 20,    //The closest users can zoom in
     minZoom: 5,     //The furthest users can zoom out
@@ -15,6 +15,14 @@ var map = L.map('map', {
     zoomDelta: 0.25, //Allow zooming in quarter increments for smoother zooming
     wheelPxPerZoomLevel: 100 //Make zooming with the mouse wheel smoother
 }).setView([55, -95], 5);
+
+//Creating marker clusters
+var markers = L.markerClusterGroup({
+    spiderfyOnMaxZoom: true,    // User can click clusters that stay together to force the markers to fan out
+    showCoverageOnHover: false, // Disables default polygon shape that appears when overhing a cluster
+    zoomToBoundsOnClick: true,  // Clicking a Cluster automatically zooms the map in to perfectly fit all the markers
+    maxClusterRadius: 25        // Distance in pixels how far apart markers have to be to get clustered (bigger means fewer markers)
+});
 
 // Add a Dark Mode tile layer (CartoDB Dark Matter)
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
@@ -27,24 +35,28 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 fetch('allcenters.geojson')
     .then(response => response.json())
     .then(data => {
-        L.geoJSON(data, {
+
+        var geojsonLayer = L.geoJSON(data, {
             onEachFeature: function (feature, layer) {
-                // 1. Build the HTML that will go inside the hover box
                 const hoverHTML = `
                     <div class="arca-hover-content">
                         <div class="hover-title">${feature.properties.name}</div>
-                        <div class="hover-details">${feature.properties.type}</div>
+                        <div class="hover-centreType">${feature.properties.centreType}</div>
+                        <div class="hover-discipline">${feature.properties.discipline}</div>
                         <div class="hover-city">[ ${feature.properties.city} ]</div>
+                        <div class="hover-association">[ ${feature.properties.association} ]</div>
                     </div>
                 `;
 
-                // 2. Bind the Tooltip to the marker
                 layer.bindTooltip(hoverHTML, {
-                    direction: 'top',      // Appears above the cursor
-                    sticky: true,          // Makes the box follow the mouse movement smoothly
-                    className: 'brutalist-tooltip', // A custom class so we can style it in CSS
-                    opacity: 1             // Forces it to be solid, not semi-transparent
+                    direction: 'top',
+                    sticky: true,
+                    className: 'brutalist-tooltip',
+                    opacity: 1
                 });
             }
-        }).addTo(map);
+        });
+
+        markers.addLayer(geojsonLayer);
+        map.addLayer(markers);
     });

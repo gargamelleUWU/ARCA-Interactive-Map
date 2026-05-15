@@ -9,7 +9,28 @@
                 "city": "Granby",
                 "province": "Québec",
                 "postalCode": "J2G 3V3",
-                "phone": "450-372-7261"
+                "phone": "450-372-7261",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://3e-imperial.org/",
+                "language": "FR",
+                "email": "info@3e-imperial.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22,12 +43,29 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Acess Gallery",
+                "name": "Access Gallery",
                 "address": "222 East Georgia Street",
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6A 1Z7",
-                "phone": "604-689-2907"
+                "phone": "604-689-2907",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://www.accessgallery.ca/",
+                "language": "EN",
+                "email": "info@accessgallery.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +83,24 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3G 1L4",
-                "phone": "1(204) 944-9763"
+                "phone": "1(204) 944-9763",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://aceart.org/",
+                "language": "EN",
+                "email": "admin@aceart.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +118,25 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2L 4H2",
-                "phone": "514-845-7934"
+                "phone": "514-845-7934",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Publications and Publishing"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://www.ada-x.org/",
+                "language": "EN/FR",
+                "email": "info@ada-x.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +154,25 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B2",
-                "phone": "514-279-8676"
+                "phone": "514-279-8676",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://topo.art/",
+                "language": "FR",
+                "email": "bonjour@topo.art",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +190,23 @@
                 "city": "Saskatoon",
                 "province": "Saskatchewan",
                 "postalCode": "S7M 0X4",
-                "phone": "306-652-0044"
+                "phone": "306-652-0044",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Plains Artist-Run Centres Association (PARCA)",
+                "url": "https://www.akaartistrun.com/",
+                "language": "EN",
+                "email": "info@akaartistrun.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +224,22 @@
                 "city": "Kamloops",
                 "province": "British Columbia",
                 "postalCode": "V2C 1E4",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "-",
+                "language": "-",
+                "email": "arnicaarc@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +257,17 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H3B 1A2",
-                "phone": "514-525-2621"
+                "phone": "514-525-2621",
+                "discipline": [
+                    "Printmaking",
+                    "Publications and Publishing"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.arprim.org/",
+                "language": "FR",
+                "email": "info@arprim.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +285,26 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3C 0W8",
-                "phone": "204-775-9856"
+                "phone": "204-775-9856",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://artcityinc.com/",
+                "language": "EN",
+                "email": "eddie@artcityinc.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +322,16 @@
                 "city": "Regina",
                 "province": "Saskatchewan",
                 "postalCode": "S4T 7S7",
-                "phone": "306-522-5940"
+                "phone": "306-522-5940",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Plains Artist-Run Centres Association (PARCA)",
+                "url": "https://www.artgalleryofregina.ca/",
+                "language": "EN",
+                "email": "info@artgalleryofregina.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +349,28 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2X 1K4",
-                "phone": "514-874-0049"
+                "phone": "514-874-0049",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://artexte.ca/",
+                "language": "FR",
+                "email": "info@artexte.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -207,7 +388,18 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2S 2M2",
-                "phone": "514-842-9686"
+                "phone": "514-842-9686",
+                "discipline": [
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.articule.org/en/home",
+                "language": "FR",
+                "email": "info@articule.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +417,27 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1T2",
-                "phone": "204-336-2366"
+                "phone": "204-336-2366",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://aanm.ca/",
+                "language": "EN",
+                "email": "info@aanm.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +455,29 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6B 2J2",
-                "phone": "604-688-0051"
+                "phone": "604-688-0051",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://www.artspeak.ca/",
+                "language": "EN",
+                "email": "office@artspeak.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -256,12 +490,29 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Artsplace Artist-Run Centre",
+                "name": "ARTsPLACE Artist-Run Centre",
                 "address": "396 St. George Street",
                 "city": "Annapolis Royal",
                 "province": "Nova Scotia",
                 "postalCode": "B0S 1A0",
-                "phone": "902-532-7069"
+                "phone": "902-532-7069",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://www.arcac.ca/",
+                "language": "EN",
+                "email": "artsplace@arcac.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +530,21 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B2",
-                "phone": "514-272-8874"
+                "phone": "514-272-8874",
+                "discipline": [
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://ateliercirculaire.org/",
+                "language": "FR",
+                "email": "info@ateliercirculaire.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -297,7 +562,23 @@
                 "city": "Val-David",
                 "province": "Québec",
                 "postalCode": "J0T 2N0",
-                "phone": "819-322-6359"
+                "phone": "819-322-6359",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.atelier.qc.ca/",
+                "language": "FR",
+                "email": "info@atelier.qc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +596,14 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2J 2J4",
-                "phone": "514-526-9851"
+                "phone": "514-526-9851",
+                "discipline": [],
+                "centreType": "-",
+                "association": "-",
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +621,23 @@
                 "city": "Trois-Rivières",
                 "province": "Québec",
                 "postalCode": "G9A 2J2",
-                "phone": "819-373-1980"
+                "phone": "819-373-1980",
+                "discipline": [
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.pressepapier.net/",
+                "language": "FR",
+                "email": "presse.papier.atelier@cgocable.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +655,21 @@
                 "city": "Trois-Rivières",
                 "province": "Québec",
                 "postalCode": "G9A 3S5",
-                "phone": "819-379-0121"
+                "phone": "819-379-0121",
+                "discipline": [
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.ateliersilex.org/",
+                "language": "FR",
+                "email": "info@ateliersilex.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -364,12 +682,28 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ateliers D'Artistes Touttout",
+                "name": "Ateliers D'Artistes TouTTouT",
                 "address": "114, rue Bossé Ouest",
                 "city": "Saguenay",
                 "province": "Québec",
                 "postalCode": "G7J 1L4",
-                "phone": "418-543-5154"
+                "phone": "418-543-5154",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "-",
+                "language": "FR",
+                "email": "info@touttout.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +721,25 @@
                 "city": "Halifax",
                 "province": "Nova Scotia",
                 "postalCode": "B3J 3N8",
-                "phone": "902-405-4474"
+                "phone": "902-405-4474",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://afcoop.ca/",
+                "language": "EN",
+                "email": "erica@afcoop.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +757,24 @@
                 "city": "Victoriaville",
                 "province": "Québec",
                 "postalCode": "G6P 1G1",
-                "phone": "819-758-9510"
+                "phone": "819-758-9510",
+                "discipline": [
+                    "Crafts",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.atollartactuel.com/",
+                "language": "FR",
+                "email": "direction@atollartactuel.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +792,16 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2W 2L8",
-                "phone": "514-844-9830"
+                "phone": "514-844-9830",
+                "discipline": [
+                    "Interdisciplinary"
+                ],
+                "centreType": "Production Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://atsa.qc.ca/en/",
+                "language": "FR",
+                "email": "info@atsa.qc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +819,26 @@
                 "city": "Gatineau",
                 "province": "Québec",
                 "postalCode": "J8Y 3M5",
-                "phone": "819-771-2122"
+                "phone": "819-771-2122",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://axeneo7.qc.ca/",
+                "language": "FR",
+                "email": "axeneo7@axeneo7.qc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +856,21 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1T2",
-                "phone": "204-615-3951"
+                "phone": "204-615-3951",
+                "discipline": [
+                    "Crafts",
+                    "Interdisciplinary",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://c2centreforcraft.ca/",
+                "language": "EN",
+                "email": "mcc@c2centreforcraft.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +888,22 @@
                 "city": "Saguenay",
                 "province": "Québec",
                 "postalCode": "G7H 5B5",
-                "phone": "418-543-2744"
+                "phone": "418-543-2744",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://centrebang.ca/",
+                "language": "FR",
+                "email": "information@centrebang.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +921,22 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H3B 1A2",
-                "phone": "514-398-9322"
+                "phone": "514-398-9322",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://skol.ca/en/",
+                "language": "FR",
+                "email": "skol@skol.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -513,7 +954,27 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 2A4",
-                "phone": "514-288-4972"
+                "phone": "514-288-4972",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://centreclark.com/en/",
+                "language": "FR",
+                "email": "info@centreclark.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -526,12 +987,23 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centre D'artistes Caravansérail",
+                "name": "Centre D'Artistes Caravansérail",
                 "address": "274, avenue Michaud",
                 "city": "Rimouski",
                 "province": "Québec",
                 "postalCode": "G5L 6A2",
-                "phone": "418-722-0846"
+                "phone": "418-722-0846",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.caravanserail.org/",
+                "language": "FR",
+                "email": "communication@caravanserail.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -549,7 +1021,26 @@
                 "city": "Saguenay",
                 "province": "Québec",
                 "postalCode": "G7J 1L5",
-                "phone": "418-690-3182"
+                "phone": "418-690-3182",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.lelobe.com/",
+                "language": "FR",
+                "email": "info@lelobe.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -567,7 +1058,25 @@
                 "city": "Carleton-sur-Mer",
                 "province": "Québec",
                 "postalCode": "G0C 1J0",
-                "phone": "418-364-3123"
+                "phone": "418-364-3123",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://vasteetvague.ca/",
+                "language": "FR",
+                "email": "direction@vasteetvague.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -585,7 +1094,24 @@
                 "city": "Halifax",
                 "province": "Nova Scotia",
                 "postalCode": "B3K 2Z9",
-                "phone": "902-422-6822"
+                "phone": "902-422-6822",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.cfat.ca/",
+                "language": "EN",
+                "email": "executivedirector@cfat.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -603,7 +1129,19 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3H3",
-                "phone": "418-524-0354"
+                "phone": "418-524-0354",
+                "discipline": [
+                    "Crafts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://centremateria.com/",
+                "language": "FR",
+                "email": "info@mmaq.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +1159,23 @@
                 "city": "Alma",
                 "province": "Québec",
                 "postalCode": "G8B 5W1",
-                "phone": "418-662-7280"
+                "phone": "418-662-7280",
+                "discipline": [
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.sagamie.com/en",
+                "language": "FR",
+                "email": "info@sagamie.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -639,7 +1193,27 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2L 4H2",
-                "phone": "514-606-8276"
+                "phone": "514-606-8276",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://centreturbine.org/",
+                "language": "FR",
+                "email": "info@centreturbine.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +1231,17 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H3B 1A2",
-                "phone": "514-393-8248"
+                "phone": "514-393-8248",
+                "discipline": [
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://circa-art.com/en/home/",
+                "language": "FR",
+                "email": "circa@circa-art.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -675,7 +1259,19 @@
                 "city": "Saskatoon",
                 "province": "Saskatchewan",
                 "postalCode": "S7M 0X4",
-                "phone": "1-306-380-4223"
+                "phone": "1-306-380-4223",
+                "discipline": [
+                    "Interdisciplinary"
+                ],
+                "centreType": "Information Centre",
+                "association": [
+                    "Aboriginal Region",
+                    "Plains Artist-Run Centres Association (PARCA)"
+                ],
+                "url": "https://www.commonweal.ca/",
+                "language": "EN",
+                "email": "drichardson@commonweal.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +1289,26 @@
                 "city": "Gatineau",
                 "province": "Québec",
                 "postalCode": "J8Y 3M5",
-                "phone": "819-770-8525"
+                "phone": "819-770-8525",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://daimon.qc.ca/en/",
+                "language": "FR/EN",
+                "email": "info@daimon.qc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +1326,23 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H3J 1K8",
-                "phone": "514-849-3273"
+                "phone": "514-849-3273",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.dare-dare.org/en/",
+                "language": "FR",
+                "email": "comm@dare-dare.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +1360,23 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B3",
-                "phone": "514-845-0063"
+                "phone": "514-845-0063",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://en.dazibao.art/",
+                "language": "FR",
+                "email": "info@dazibao.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -747,7 +1394,21 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B3",
-                "phone": "514-524-6645"
+                "phone": "514-524-6645",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "http://www.artdiagonale.org/",
+                "language": "FR",
+                "email": "administration@artdiagonale.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -765,7 +1426,25 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2N 1A4",
-                "phone": "514-284-2106"
+                "phone": "514-284-2106",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://www.easternbloc.ca/",
+                "language": "FR/EN",
+                "email": "comm@easternbloc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -783,7 +1462,27 @@
                 "city": "St. John's",
                 "province": "Newfoundland and Labrador",
                 "postalCode": "A1C 6K1",
-                "phone": "709-739-1882"
+                "phone": "709-739-1882",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://easternedge.ca/",
+                "language": "EN",
+                "email": "easternedgegallery@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -801,7 +1500,21 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P9",
-                "phone": "418-529-0972"
+                "phone": "418-529-0972",
+                "discipline": [
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://engramme.ca/",
+                "language": "FR",
+                "email": "info@engramme.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -819,7 +1532,22 @@
                 "city": "Saint-Jean-Port-Joli",
                 "province": "Québec",
                 "postalCode": "G0R 3G0",
-                "phone": "418-598-6363"
+                "phone": "418-598-6363",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Artists' Residencies",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://estnordest.org/",
+                "language": "FR",
+                "email": "info@estnordest.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -837,7 +1565,20 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 4E9",
-                "phone": "418-529-0909"
+                "phone": "418-529-0909",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://exmuro.com/",
+                "language": "FR",
+                "email": "info@exmuro.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +1596,26 @@
                 "city": "Halifax",
                 "province": "Nova Scotia",
                 "postalCode": "B3K 3V4",
-                "phone": "902-425-6412"
+                "phone": "902-425-6412",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "http://eyelevel.art/",
+                "language": "EN",
+                "email": "sally@eyelevel.art",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -873,7 +1633,19 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6E 2N4",
-                "phone": "604-781-4417"
+                "phone": "604-781-4417",
+                "discipline": [
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://fillip.ca/",
+                "language": "EN",
+                "email": "fillip@fillip.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -891,7 +1663,23 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P4",
-                "phone": "418-649-0999"
+                "phone": "418-649-0999",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://folieculture.org/",
+                "language": "FR",
+                "email": "fc@folieculture.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -909,7 +1697,22 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H3B 1A2",
-                "phone": "514-874-9423"
+                "phone": "514-874-9423",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.galerieb312.ca/",
+                "language": "FR",
+                "email": "info@galerieb312.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -927,7 +1730,27 @@
                 "city": "Moncton",
                 "province": "New Brunswick",
                 "postalCode": "E1C 4X5",
-                "phone": "506-854-5381"
+                "phone": "506-854-5381",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": [
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)",
+                    "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.galeriesansnom.org/",
+                "language": "FR/EN",
+                "email": "info@galeriesansnom.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -945,7 +1768,31 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6B 1G4",
-                "phone": "604-687-2468"
+                "phone": "604-687-2468",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "https://gachet.org/",
+                "language": "EN",
+                "email": "contact@gachet.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -958,12 +1805,29 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Group Intervention Vidéo",
+                "name": "Groupe Intervention Vidéo",
                 "address": "4001, rue Berri, local 105",
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2L 4H2",
-                "phone": "514-271-5506"
+                "phone": "514-271-5506",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://www.givideo.org/",
+                "language": "FR",
+                "email": "info@givideo.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -981,7 +1845,16 @@
                 "city": "Halifax",
                 "province": "Nova Scotia",
                 "postalCode": "B3J 1W6",
-                "phone": "902-817-6620"
+                "phone": "902-817-6620",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": "",
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://www.khyber.ca/",
+                "language": "EN",
+                "email": "info@khyber.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1872,20 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H1W 2G4",
-                "phone": "514-360-1244"
+                "phone": "514-360-1244",
+                "discipline": [
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://limprimerie.art/",
+                "language": "FR/EN",
+                "email": "art@limprimerie.art",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1017,7 +1903,25 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P9",
-                "phone": "418-522-5561"
+                "phone": "418-522-5561",
+                "discipline": [
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "http://labandevideo.com/",
+                "language": "FR",
+                "email": "adm@labandevideo.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1035,7 +1939,27 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2W 1Z3",
-                "phone": "514-871-0268"
+                "phone": "514-871-0268",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.lacentrale.org/",
+                "language": "FR/EN",
+                "email": "galerie@lacentrale.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1053,7 +1977,24 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3S6",
-                "phone": "418-529-2715"
+                "phone": "418-529-2715",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.chambreblanche.qc.ca/",
+                "language": "FR",
+                "email": "info@chambreblanche.qc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1071,7 +2012,25 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R2H 0G4",
-                "phone": "204-237-5964"
+                "phone": "204-237-5964",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": [
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)",
+                    "Manitoba Artist-Run Centres Coalition (MARCC)"
+                ],
+                "url": "https://maisondesartistes.mb.ca/",
+                "language": "FR",
+                "email": "info@maisondesartistes.mb.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1089,7 +2048,25 @@
                 "city": "Alma",
                 "province": "Québec",
                 "postalCode": "G8B 1N1",
-                "phone": "418-668-6635"
+                "phone": "418-668-6635",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.langageplus.com/",
+                "language": "FR",
+                "email": "info@langageplus.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1107,7 +2084,18 @@
                 "city": "Edmonton",
                 "province": "Alberta",
                 "postalCode": "T5J 0N8",
-                "phone": "780-423-5353"
+                "phone": "780-423-5353",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://www.latitude53.org/",
+                "language": "EN",
+                "email": "info@latitude53.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1125,7 +2113,27 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 6M4",
-                "phone": "418-529-9680"
+                "phone": "418-529-9680",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://inter-lelieu.org/",
+                "language": "FR",
+                "email": "infos@inter-lelieu.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1138,12 +2146,34 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "L'Écart... Lieu D'Art Actuel",
+                "name": "L'Écart - Lieu D'Art Actuel",
                 "address": "167, avenue Murdoch, case postale 2273",
                 "city": "Rouyn-Noranda",
                 "province": "Québec",
                 "postalCode": "J9X 5A9",
-                "phone": "819-797-8738"
+                "phone": "819-797-8738",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://lecart.org/fr/",
+                "language": "FR",
+                "email": "info@lecart.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1161,7 +2191,29 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P9",
-                "phone": "418-648-2975"
+                "phone": "418-648-2975",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://oeildepoisson.com/",
+                "language": "FR",
+                "email": "info@oeildepoisson.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1179,7 +2231,26 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2Z 1X8",
-                "phone": "514-868-6691"
+                "phone": "514-868-6691",
+                "discipline": [
+                    "Architecture",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://maisondelarchitecture.ca/",
+                "language": "FR",
+                "email": "marchitectureduquebec@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1197,7 +2268,30 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6H 3S3",
-                "phone": "604-688-1724"
+                "phone": "604-688-1724",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://www.malaspinaprintmakers.com/",
+                "language": "EN",
+                "email": "info@malaspinaprintmakers.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1215,7 +2309,22 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1A2",
-                "phone": "204-779-6253"
+                "phone": "204-779-6253",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://www.printmakers.mb.ca/",
+                "language": "EN",
+                "email": "askmartha@printmakers.mb.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1233,7 +2342,20 @@
                 "city": "Calgary",
                 "province": "Alberta",
                 "postalCode": "T2R 0G9",
-                "phone": "403-837-6678"
+                "phone": "403-837-6678",
+                "discipline": [
+                    "Performance and Live Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://www.mountainstandardtime.org/",
+                "language": "EN",
+                "email": "info@mountainstandardtime.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1251,7 +2373,20 @@
                 "city": "Regina",
                 "province": "Saskatchewan",
                 "postalCode": "S4P 2G9",
-                "phone": "306-522-7166"
+                "phone": "306-522-7166",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Plains Artist-Run Centres Association (PARCA)",
+                "url": "https://neutralground.sk.ca/",
+                "language": "EN",
+                "email": "program@neutralground.sk.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1269,7 +2404,26 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2L 4H2",
-                "phone": "514-844-3250"
+                "phone": "514-844-3250",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://www.oboro.net/",
+                "language": "FR",
+                "email": "oboro@oboro.net",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1287,7 +2441,19 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B3",
-                "phone": "514-907-4535"
+                "phone": "514-907-4535",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://occurrence.ca/",
+                "language": "FR",
+                "email": "info@occurrence.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1305,7 +2471,28 @@
                 "city": "Victoria",
                 "province": "British Columbia",
                 "postalCode": "V8W 1E6",
-                "phone": "250-383-8833"
+                "phone": "250-383-8833",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://openspace.ca/",
+                "language": "EN",
+                "email": "openspace@openspace.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1323,7 +2510,23 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B2",
-                "phone": "514-874-1666"
+                "phone": "514-874-1666",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.optica.ca/",
+                "language": "FR",
+                "email": "info@optica.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1341,7 +2544,21 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6A 1T7",
-                "phone": "604-683-7395"
+                "phone": "604-683-7395",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://orgallery.org/",
+                "language": "EN",
+                "email": "or@orgallery.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1359,7 +2576,22 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "-",
-                "phone": "604-254-5598"
+                "phone": "604-254-5598",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://othersights.ca/",
+                "language": "EN",
+                "email": "sunshine@othersights.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1377,7 +2609,27 @@
                 "city": "Nelson",
                 "province": "British Columbia",
                 "postalCode": "V1L 4E4",
-                "phone": "250-352-6322"
+                "phone": "250-352-6322",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://oxygenartcentre.org/",
+                "language": "EN",
+                "email": "info@oxygenartcentre.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1395,7 +2647,19 @@
                 "city": "Sept-Îles",
                 "province": "Québec",
                 "postalCode": "G4R 2N5",
-                "phone": "418-218-1685"
+                "phone": "418-218-1685",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.panacheartactuel.com/",
+                "language": "FR",
+                "email": "info@panacheartactuel.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1413,7 +2677,22 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2T 3B3",
-                "phone": "514-273-4813"
+                "phone": "514-273-4813",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://perte-de-signal.org/",
+                "language": "FR",
+                "email": "info@perte-de-signal.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1431,7 +2710,24 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1H3",
-                "phone": "204-942-8183"
+                "phone": "204-942-8183",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://platformgallery.org/",
+                "language": "EN",
+                "email": "admin@platformgallery.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1449,7 +2745,20 @@
                 "city": "Sainte-Thérèse",
                 "province": "Québec",
                 "postalCode": "J7E 1X1",
-                "phone": "450-434-7648"
+                "phone": "450-434-7648",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "-",
+                "language": "FR",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1467,7 +2776,24 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2K 3N9",
-                "phone": "514-524-2421"
+                "phone": "514-524-2421",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://primcentre.org/",
+                "language": "FR",
+                "email": "info@primcentre.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1485,7 +2811,18 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6A 1T7",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": "Publisher",
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1503,7 +2840,22 @@
                 "city": "Lévis",
                 "province": "Québec",
                 "postalCode": "G6V 3P4",
-                "phone": "418-837-4099"
+                "phone": "418-837-4099",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Printmaking",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.centreregart.org/",
+                "language": "FR",
+                "email": "info@centreregart.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1521,7 +2873,21 @@
                 "city": "Saskatoon",
                 "province": "Saskatchewan",
                 "postalCode": "S7M 1P8",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Crafts",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": "Production Centre",
+                "association": "Association des Groupes en Arts Visuels Francophones (AGAVF)",
+                "url": "https://sans-atelier.com/",
+                "language": "FR",
+                "email": "sans-atelier@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1539,7 +2905,23 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P9",
-                "phone": "418-523-1275"
+                "phone": "418-523-1275",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://www.spira.quebec/",
+                "language": "FR",
+                "email": "info@spira.quebec",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1557,7 +2939,23 @@
                 "city": "Sherbrooke",
                 "province": "Québec",
                 "postalCode": "J1H 1M9",
-                "phone": "819-821-2326"
+                "phone": "819-821-2326",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://sporobole.org/",
+                "language": "FR",
+                "email": "info@sporobole.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1575,7 +2973,23 @@
                 "city": "St. John's",
                 "province": "Newfoundland and Labrador",
                 "postalCode": "A1C 5J2",
-                "phone": "709-754-2931"
+                "phone": "709-754-2931",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://www.stmichaelsprintshop.com/",
+                "language": "EN",
+                "email": "stmichaelsprintshop@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1593,7 +3007,23 @@
                 "city": "Calgary",
                 "province": "Alberta",
                 "postalCode": "T2R 0E1",
-                "phone": "403-262-8507"
+                "phone": "403-262-8507",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://www.stride.ab.ca/",
+                "language": "EN",
+                "email": "EVA@STRIDE.AB.CA",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1611,7 +3041,32 @@
                 "city": "Sackville",
                 "province": "New Brunswick",
                 "postalCode": "E4L 3Z6",
-                "phone": "506-536-1211"
+                "phone": "506-536-1211",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.strutsgallery.ca/",
+                "language": "EN",
+                "email": "info@strutsgallery.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +3084,30 @@
                 "city": "Kamloops",
                 "province": "British Columbia",
                 "postalCode": "V2E 1E9",
-                "phone": "778-471-1184"
+                "phone": "778-471-1184",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location"
+                ],
+                "association": [
+                    "Aboriginal Region",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1647,7 +3125,32 @@
                 "city": "Prince Albert",
                 "province": "Saskatchewan",
                 "postalCode": "S6V 4V5",
-                "phone": "306-763-8023"
+                "phone": "306-763-8023",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Aboriginal Region",
+                    "Plains Artist-Run Centres Association (PARCA)"
+                ],
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1665,7 +3168,30 @@
                 "city": "Calgary",
                 "province": "Alberta",
                 "postalCode": "T2G 2B6",
-                "phone": "403-233-2399"
+                "phone": "403-233-2399",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://thenewgallery.org/",
+                "language": "EN",
+                "email": "info@TheNewGallery.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1683,7 +3209,22 @@
                 "city": "Charlottetown",
                 "province": "Prince Edward Island",
                 "postalCode": "C1A 1H7",
-                "phone": "902-314-0772"
+                "phone": "902-314-0772",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://www.thistownissmall.com/",
+                "language": "EN",
+                "email": "info@thistownissmall.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1696,12 +3237,26 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Trap/Door Artist Run Centre",
+                "name": "Trap\\Door Artist Run Centre",
                 "address": "-",
                 "city": "Lethbridge",
                 "province": "Alberta",
                 "postalCode": "-",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": "No Fixed Location",
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://trapdoorarc.org/",
+                "language": "EN",
+                "email": "trapdoorlethbridge@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1719,7 +3274,24 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6K1R4",
-                "phone": "604-974-8689"
+                "phone": "604-974-8689",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://www.unitpitt.ca/",
+                "language": "EN",
+                "email": "info@unitpitt.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1737,7 +3309,20 @@
                 "city": "St. Albert",
                 "province": "Alberta",
                 "postalCode": "T8N 2S7",
-                "phone": "780-460-5990"
+                "phone": "780-460-5990",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://vasa-art.com/",
+                "language": "EN",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1755,7 +3340,29 @@
                 "city": "Laval",
                 "province": "Québec",
                 "postalCode": "H7N 2W6",
-                "phone": "450-934-6042"
+                "phone": "450-934-6042",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://verticale.ca/",
+                "language": "FR",
+                "email": "info@verticale.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1773,7 +3380,24 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P5",
-                "phone": "418-529-9188"
+                "phone": "418-529-9188",
+                "discipline": [
+                    "Film/Video"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1791,7 +3415,26 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1H3",
-                "phone": "204-949-9134"
+                "phone": "204-949-9134",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Manitoba Artist-Run Centres Coalition (MARCC)"
+                ],
+                "url": "https://videopool.org/",
+                "language": "EN",
+                "email": "info@videopool.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1809,7 +3452,25 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2J 3S7",
-                "phone": "514-521-2116"
+                "phone": "514-521-2116",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://www.videographe.org/",
+                "language": "FR",
+                "email": "info@videographe.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1827,7 +3488,19 @@
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "-",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Performance and Live Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Exhibition Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://vivamontreal.org/",
+                "language": "FR",
+                "email": "info@vivamontreal.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1845,7 +3518,29 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V5M 3G9",
-                "phone": "604-872-8337"
+                "phone": "604-872-8337",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "https://www.vivomediaarts.com/",
+                "language": "EN",
+                "email": "info@vivomediaarts.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1863,7 +3558,23 @@
                 "city": "Saskatoon",
                 "province": "Saskatchewan",
                 "postalCode": "S7M 1M6",
-                "phone": "306-850-6545"
+                "phone": "306-850-6545",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Plains Artist-Run Centres Association (PARCA)",
+                "url": "-",
+                "language": "EN",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1876,12 +3587,24 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "VOIX, Centre de L'Image Contemporaine",
+                "name": "VOX, Centre de L'Image Contemporaine",
                 "address": "2, rue Sainte-Catherine Est, 4th floor",
                 "city": "Montréal",
                 "province": "Québec",
                 "postalCode": "H2X 1K4",
-                "phone": "514-390-0382"
+                "phone": "514-390-0382",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Publications and Publishing"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://centrevox.ca/",
+                "language": "FR/EN",
+                "email": "info@centrevox.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1899,7 +3622,23 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P9",
-                "phone": "418-640-2585"
+                "phone": "418-640-2585",
+                "discipline": [
+                    "Film/Video",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://vuphoto.org/fr/",
+                "language": "FR",
+                "email": "info@vuphoto.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1917,7 +3656,29 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V5T 1S1",
-                "phone": "604-876-9343"
+                "phone": "604-876-9343",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "https://westernfront.ca/",
+                "language": "EN",
+                "email": "info@westernfront.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1935,7 +3696,26 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1H3",
-                "phone": "204-925-3456"
+                "phone": "204-925-3456",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Manitoba Artist-Run Centres Coalition (MARCC)"
+                ],
+                "url": "https://www.winnipegfilmgroup.com/",
+                "language": "EN",
+                "email": "info@winnipegfilmgroup.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1953,7 +3733,23 @@
                 "city": "Victoria",
                 "province": "British Columbia",
                 "postalCode": "V8T 4P4",
-                "phone": "1-250-382-0442"
+                "phone": "1-250-382-0442",
+                "discipline": [
+                    "Crafts",
+                    "Media and Digital Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "info@xchangesgallery.org",
+                "language": "EN",
+                "email": "http://www.xchangesgallery.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1971,7 +3767,20 @@
                 "city": "Yellowknife",
                 "province": "Northwest Territories",
                 "postalCode": "X1A3X7",
-                "phone": "867-446-9099"
+                "phone": "867-446-9099",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://ykarcc.wordpress.com/",
+                "language": "EN",
+                "email": "ykarcc@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1989,7 +3798,22 @@
                 "city": "Longueuil",
                 "province": "Québec",
                 "postalCode": "J4H 2W9",
-                "phone": "450-679-5341"
+                "phone": "450-679-5341",
+                "discipline": [
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://zocaloweb.org/",
+                "language": "FR",
+                "email": "info@zocaloweb.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2007,7 +3831,25 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6Z 1C3",
-                "phone": "604-568-0812"
+                "phone": "604-568-0812",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://221a.ca/",
+                "language": "EN",
+                "email": "hello@221a.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2020,12 +3862,24 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Admare Centre D'Artistes En Art Actuel des Îles-De-La-Madelaine",
+                "name": "AdMare Centre D'Artistes en Art Actuel des Îles-De-La-Madelaine",
                 "address": "1349-1 chemin de Lavernière",
                 "city": "L'Étang-du-Nord",
                 "province": "Québec",
                 "postalCode": "G4T 3G1",
-                "phone": "418-986-3083"
+                "phone": "418-986-3083",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Publisher"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://www.admare.org/",
+                "language": "FR",
+                "email": "laurene@admare.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2043,7 +3897,24 @@
                 "city": "Calgary",
                 "province": "Alberta",
                 "postalCode": "T2G 2W4",
-                "phone": "403-287-1056"
+                "phone": "403-287-1056",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://albertaprintmakers.com/",
+                "language": "EN",
+                "email": "director@albertaprintmakers.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2061,7 +3932,27 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M6H 1A4",
-                "phone": "416-703-4400"
+                "phone": "416-703-4400",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://artmetropole.com/",
+                "language": "EN",
+                "email": "info@artmetropole.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2079,7 +3970,29 @@
                 "city": "Windsor",
                 "province": "Ontaria",
                 "postalCode": "N9A 5P4",
-                "phone": "519-977-6564"
+                "phone": "519-977-6564",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2092,12 +4005,27 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Artspace",
+                "name": "ArtsSpace",
                 "address": "3-378 Aylmer Street North",
                 "city": "Peterborough",
                 "province": "Ontaria",
                 "postalCode": "K9J 7X6",
-                "phone": "705-748-3883"
+                "phone": "705-748-3883",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "artspace-arc.org",
+                "language": "EN",
+                "email": "gallery@artspaceptbo.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2115,7 +4043,23 @@
                 "city": "Moncton",
                 "province": "New Brunswick",
                 "postalCode": "E1C 4X5",
-                "phone": "506-388-1431"
+                "phone": "506-388-1431",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Printmaking"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)",
+                    "Association of Artist-Run Centres From the Atlantic (AARCA)"
+                ],
+                "url": "https://www.atelierimago.com/",
+                "language": "FR",
+                "email": "direction@atelierimago.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2128,12 +4072,26 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Avaiable Light Screening Collective",
+                "name": "Available Light Screening Collective",
                 "address": "2 Daly Avenue, Suite 121",
                 "city": "Ottawa",
                 "province": "Ontaria",
                 "postalCode": "K1N 6E2",
-                "phone": "613-883-1801"
+                "phone": "613-883-1801",
+                "discipline": [
+                    "Film/Video"
+                ],
+                "centreType": [
+                    "No Fixed Location"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "-",
+                "language": "EN",
+                "email": "availablelightcollective@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2151,7 +4109,26 @@
                 "city": "Québec",
                 "province": "Québec",
                 "postalCode": "G1K 3P9",
-                "phone": "418-522-8918"
+                "phone": "418-522-8918",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)"
+                ],
+                "url": "https://avatarquebec.org/en/home/",
+                "language": "FR",
+                "email": "direction@avatarquebec.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2169,7 +4146,18 @@
                 "city": "Kitchener",
                 "province": "Ontaria",
                 "postalCode": "N2G 2X8",
-                "phone": "519-744-5123"
+                "phone": "519-744-5123",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.cafka.org/",
+                "language": "EN",
+                "email": "cafka@cafka.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2182,12 +4170,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centre for Print and Media Arts",
+                "name": "Centre3 for Print and Media Arts",
                 "address": "173 James Street North",
                 "city": "Hamilton",
                 "province": "Ontaria",
                 "postalCode": "L8R 2K9",
-                "phone": "905-524-5084"
+                "phone": "905-524-5084",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Printmaking"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://centre3.com/",
+                "language": "EN",
+                "email": "info@centre3.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2205,7 +4206,22 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M6H 2B5",
-                "phone": "416-603-6564"
+                "phone": "416-603-6564",
+                "discipline": [
+                    "Film/Video"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://charlesstreetvideo.com",
+                "language": "EN",
+                "email": "csv@charlesstreetvideo.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2223,7 +4239,24 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6Z 2L7",
-                "phone": "604-685-3841"
+                "phone": "604-685-3841",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "https://www.cineworks.ca/",
+                "language": "EN",
+                "email": "info@cineworks.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2241,7 +4274,19 @@
                 "city": "Fredericton",
                 "province": "New Brunswick",
                 "postalCode": "E3B 1C2",
-                "phone": "1-506-262-1367"
+                "phone": "1-506-262-1367",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://connexionarc.org/",
+                "language": "EN",
+                "email": "director@connexionarc.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2259,7 +4304,28 @@
                 "city": "Thunder Bay",
                 "province": "Ontaria",
                 "postalCode": "P7A 4K9",
-                "phone": "1-807-344-3814"
+                "phone": "1-807-344-3814",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "http://www.definitelysuperior.com/",
+                "language": "EN",
+                "email": "defsup@tbaytel.net",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2277,7 +4343,21 @@
                 "city": "Ottawa",
                 "province": "Ontaria",
                 "postalCode": "K1N 7B9",
-                "phone": "613-238-7648"
+                "phone": "613-238-7648",
+                "discipline": [
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Production Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://digitalartsresourcecentre.ca/",
+                "language": "EN",
+                "email": "admin@digitalartsresourcecentre.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2295,7 +4375,23 @@
                 "city": "Guelph",
                 "province": "Ontaria",
                 "postalCode": "N1H 3K8",
-                "phone": "519-836-9811"
+                "phone": "519-836-9811",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://edvideo.org/",
+                "language": "EN",
+                "email": "sarafina@edvideo.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2313,7 +4409,20 @@
                 "city": "Matane",
                 "province": "Québec",
                 "postalCode": "G4W 3B5",
-                "phone": "418-562-8661"
+                "phone": "418-562-8661",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Regroupement des Centres d'Artistes Autogérés du Québec (RCAAQ)",
+                "url": "https://espacesf.org/",
+                "language": "FR",
+                "email": "info@espacesf.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2331,7 +4440,23 @@
                 "city": "Hamilton",
                 "province": "Ontaria",
                 "postalCode": "L8L 5G6",
-                "phone": "905-577-9191"
+                "phone": "905-577-9191",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.factorymediacentre.ca/",
+                "language": "EN",
+                "email": "info@factorymediacentre.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2349,7 +4474,18 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-822-3219"
+                "phone": "416-822-3219",
+                "discipline": [
+                    "Performance and Live Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://performanceart.ca/",
+                "language": "EN",
+                "email": "info@performanceart.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2367,7 +4503,23 @@
                 "city": "London",
                 "province": "Ontaria",
                 "postalCode": "N5W 3P6",
-                "phone": "226-289-4025"
+                "phone": "226-289-4025",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.forestcitygallery.com/",
+                "language": "EN",
+                "email": "info@forestcitygallery.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2385,7 +4537,30 @@
                 "city": "Sudbury",
                 "province": "Ontaria",
                 "postalCode": "P3E 1B7",
-                "phone": "705-673-4927"
+                "phone": "705-673-4927",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)"
+                ],
+                "url": "https://gn-o.org/",
+                "language": "FR/EN",
+                "email": "info@gn-o.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2403,7 +4578,29 @@
                 "city": "Ottawa",
                 "province": "Ontaria",
                 "postalCode": "K1R 5T3",
-                "phone": "613-230-2799"
+                "phone": "613-230-2799",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://g101.ca/",
+                "language": "FR/EN",
+                "email": "office@g101.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2421,7 +4618,21 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M6K 1L8",
-                "phone": "416-536-6778"
+                "phone": "416-536-6778",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://gallery1313.org/",
+                "language": "EN",
+                "email": "director@g1313.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2439,7 +4650,19 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-979-3941"
+                "phone": "416-979-3941",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.gallery44.org/",
+                "language": "EN",
+                "email": "alana@gallery44.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2457,7 +4680,19 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M6H 4A1",
-                "phone": "416-645-1066"
+                "phone": "416-645-1066",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.gallerytpw.ca/",
+                "language": "EN",
+                "email": "info@gallerytpw.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2475,7 +4710,26 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V5T 4R8",
-                "phone": "604-875-9516"
+                "phone": "604-875-9516",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://grunt.ca/",
+                "language": "EN",
+                "email": "arlo@grunt.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2493,7 +4747,28 @@
                 "city": "Hamilton",
                 "province": "Ontaria",
                 "postalCode": "L8P 4W9",
-                "phone": "905-529-3355"
+                "phone": "905-529-3355",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.theinc.ca/",
+                "language": "EN",
+                "email": "info@theinc.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2511,7 +4786,24 @@
                 "city": "Edmonton",
                 "province": "Alberta",
                 "postalCode": "T5K 1M7",
-                "phone": "780-426-4180"
+                "phone": "780-426-4180",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://harcourthouse.ab.ca/",
+                "language": "EN",
+                "email": "info@harcourthouse.ab.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2524,12 +4816,25 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Imaginenative Film + Media Arts Festival",
+                "name": "ImagineNATIVE Film + Media Arts Festival",
                 "address": "401 Richmond Street West, Suite 446",
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-585-2333"
+                "phone": "416-585-2333",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": "Information Centre",
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://imaginenative.org/",
+                "language": "EN",
+                "email": "info@imagineNATIVE.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2547,7 +4852,16 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": "Information Centre",
+                "association": "Aboriginal Region",
+                "url": "https://icca.art",
+                "language": "EN",
+                "email": "info@icca.art",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2565,7 +4879,21 @@
                 "city": "Ottawa",
                 "province": "Ontaria",
                 "postalCode": "K1M 1L8",
-                "phone": "613-748-6954"
+                "phone": "613-748-6954",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)"
+                ],
+                "url": "https://voixvisuelle.ca/fr/",
+                "language": "FR/EN",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2583,7 +4911,26 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "(647) 352-4411"
+                "phone": "(647) 352-4411",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "http://lelabo.ca/fr/",
+                "language": "FR/EN",
+                "email": "info@lelabo.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2601,7 +4948,24 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6Z 1C3",
-                "phone": "604-537-1636"
+                "phone": "604-537-1636",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Publisher",
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "-",
+                "language": "EN",
+                "email": "livedspace@livedspace.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2619,7 +4983,24 @@
                 "city": "Pointe-de-l'Église",
                 "province": "Nova Scotia",
                 "postalCode": "B0W 1M0",
-                "phone": "902-769-2114"
+                "phone": "902-769-2114",
+                "discipline": [
+                    "Printmaking",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)",
+                    "Association of Artist-Run Centres From the Atlantic (AARCA)"
+                ],
+                "url": "https://artdelabaie.blogspot.com/",
+                "language": "FR",
+                "email": "cab@usainteanne.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2637,7 +5018,29 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 1T2",
-                "phone": "204-949-9490"
+                "phone": "204-949-9490",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": "Manitoba Artist-Run Centres Coalition (MARCC)",
+                "url": "https://mawa.ca/",
+                "language": "EN",
+                "email": "info@mawa.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2655,7 +5058,22 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M6H 1N9",
-                "phone": "416-536-1519"
+                "phone": "416-536-1519",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.mercerunion.org/",
+                "language": "EN",
+                "email": "office@mercerunion.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2673,7 +5091,21 @@
                 "city": "Victoria",
                 "province": "British Columbia",
                 "postalCode": "V8W 2H1",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Pacific Association of Artist-Run Centres (PAARC)",
+                "url": "https://ministryofcasualliving.ca/",
+                "language": "EN",
+                "email": "ministryofcasualliving@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2691,7 +5123,27 @@
                 "city": "Kingston",
                 "province": "Ontaria",
                 "postalCode": "K7L 2X4",
-                "phone": "613-548-4883"
+                "phone": "613-548-4883",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.modernfuel.org/",
+                "language": "EN",
+                "email": "director@modernfuel.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2709,7 +5161,20 @@
                 "city": "North Bay",
                 "province": "Ontaria",
                 "postalCode": "P1B 1A8",
-                "phone": "705-845-9491"
+                "phone": "705-845-9491",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": "Production Centre",
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.n2m2l.ca/",
+                "language": "EN",
+                "email": "mobilemedialab@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2727,7 +5192,26 @@
                 "city": "St. Catherines",
                 "province": "Ontaria",
                 "postalCode": "L2R 3N2",
-                "phone": "905-641-0331"
+                "phone": "905-641-0331",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://nac.org/",
+                "language": "EN",
+                "email": "artists@nac.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2745,7 +5229,22 @@
                 "city": "Kelowna",
                 "province": "British Columbia",
                 "postalCode": "V1Y 6Z1",
-                "phone": "250-868-2298"
+                "phone": "250-868-2298",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "https://www.alternatorcentre.com/",
+                "language": "EN",
+                "email": "info@alternatorcentre.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2763,7 +5262,30 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6A 1X5",
-                "phone": "604-872-7713"
+                "phone": "604-872-7713",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Distribution Centre",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "https://www.onmaingallery.ca/",
+                "language": "EN",
+                "email": "admin@onmaingallery.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2781,7 +5303,24 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-504-8238"
+                "phone": "416-504-8238",
+                "discipline": [
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://openstudio.ca/",
+                "language": "EN",
+                "email": "office@openstudio.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2794,12 +5333,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Paved Arts",
+                "name": "PAVED Arts",
                 "address": "424 20th Street West",
                 "city": "Saskatoon",
                 "province": "Saskatchewan",
                 "postalCode": "S7M OX4",
-                "phone": "306-652-5502"
+                "phone": "306-652-5502",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Plains Artist-Run Centres Association (PARCA)",
+                "url": "https://www.pavedarts.ca/",
+                "language": "EN",
+                "email": "artistic@pavedarts.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2817,7 +5374,22 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "",
+                "url": "https://pdome.org/",
+                "language": "EN",
+                "email": "pleasuredomemanager@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2835,7 +5407,16 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M6J 0A9",
-                "phone": "416-504-7142"
+                "phone": "416-504-7142",
+                "discipline": [
+                    "Interdisciplinary"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "",
+                "url": "https://propellerartgallery.com/",
+                "language": "EN",
+                "email": "info@propellerartgallery.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2853,7 +5434,29 @@
                 "city": "Regina",
                 "province": "Alberta",
                 "postalCode": "S4P 2G9",
-                "phone": "306-352-0302"
+                "phone": "306-352-0302",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": [
+                    "Aboriginal Region",
+                    "Plains Artist-Run Centres Association (PARCA)"
+                ],
+                "url": "https://sakewewak.ca/",
+                "language": "EN",
+                "email": "ExecutiveDirector@sakewewak.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2871,7 +5474,27 @@
                 "city": "Regina",
                 "province": "Saskatchewan",
                 "postalCode": "S4P 2G3",
-                "phone": "306-757-8818"
+                "phone": "306-757-8818",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "No Fixed Location",
+                    "Information Centre",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": "Plains Artist-Run Centres Association (PARCA)",
+                "url": "https://www.filmpool.ca/",
+                "language": "EN",
+                "email": "president@filmpool.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2889,7 +5512,20 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-542-1661"
+                "phone": "416-542-1661",
+                "discipline": [
+                    "Film/Video",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://savac.net/",
+                "language": "EN",
+                "email": "info@savac.net",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2907,7 +5543,27 @@
                 "city": "Ottawa",
                 "province": "Ontaria",
                 "postalCode": "K1N 7B9",
-                "phone": "613-236-6181"
+                "phone": "613-236-6181",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Information Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Association des Groupes en Arts Visuels Francophones (AGAVF)"
+                ],
+                "url": "https://saw-centre.com/",
+                "language": "FR/EN",
+                "email": "info@saw-centre.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2925,7 +5581,23 @@
                 "city": "Calgary",
                 "province": "Alberta",
                 "postalCode": "T3C 0K4",
-                "phone": "403-261-7702"
+                "phone": "403-261-7702",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Publisher"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://www.truck.ca/",
+                "language": "EN",
+                "email": "hello@truck.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2943,7 +5615,25 @@
                 "city": "Edmonton",
                 "province": "Alberta",
                 "postalCode": "T5N 3K6",
-                "phone": "780-423-1492"
+                "phone": "780-423-1492",
+                "discipline": [
+                    "Crafts",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://snapartists.com/",
+                "language": "EN",
+                "email": "snap@snapartists.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2961,7 +5651,27 @@
                 "city": "Calgary",
                 "province": "Alberta",
                 "postalCode": "T3C 0K4",
-                "phone": "825-994-3366"
+                "phone": "825-994-3366",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Production Centre"
+                ],
+                "association": "Alberta Association of Artist-Run Centres (AAARC)",
+                "url": "https://www.thebows.org/",
+                "language": "EN",
+                "email": "info@thebows.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2979,7 +5689,19 @@
                 "city": "Ottawa",
                 "province": "Ontaria",
                 "postalCode": "K1N 6E2",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Film/Video"
+                ],
+                "centreType": "Production Centre",
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.ifco.ca/",
+                "language": "EN",
+                "email": "board@ifco.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2997,7 +5719,19 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-504-5654"
+                "phone": "416-504-5654",
+                "discipline": [
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://www.redheadgallery.org/",
+                "language": "EN",
+                "email": "info@redheadgallery.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3010,12 +5744,31 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Third Space Gallery / Gallerie Tiers Espace",
+                "name": "Third Space Gallery / Galerie Tiers Espace",
                 "address": "Third Space P.O. Box 20103",
                 "city": "Saint John",
                 "province": "New Brunswick",
                 "postalCode": "E2L 5B2",
-                "phone": "506-566-7434"
+                "phone": "506-566-7434",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "No Fixed Location",
+                    "Exhibition Centre",
+                    "Information Centre"
+                ],
+                "association": "Association of Artist-Run Centres From the Atlantic (AARCA)",
+                "url": "https://thirdspacegallery.ca/",
+                "language": "EN/FR",
+                "email": "tiersespace@gmail.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3033,7 +5786,20 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-703-9333"
+                "phone": "416-703-9333",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://www.reelasian.com/",
+                "language": "EN",
+                "email": "info@reelasian.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3051,7 +5817,21 @@
                 "city": "Saskatoon",
                 "province": "Saskatchewan",
                 "postalCode": "S7K 3G8",
-                "phone": "306-244-4814"
+                "phone": "306-244-4814",
+                "discipline": [
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Visual Arts"
+                ],
+                "centreType": "No Fixed Location",
+                "association": [
+                    "Aboriginal Region",
+                    "Plains Artist-Run Centres Association (PARCA)"
+                ],
+                "url": "-",
+                "language": "-",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3069,7 +5849,27 @@
                 "city": "Winnipeg",
                 "province": "Manitoba",
                 "postalCode": "R3B 0T2",
-                "phone": "204-942-2674"
+                "phone": "204-942-2674",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": [
+                    "Aboriginal Region",
+                    "Manitoba Artist-Run Centres Coalition (MARCC)"
+                ],
+                "url": "https://www.urbanshaman.org/",
+                "language": "EN",
+                "email": "info@urbanshaman.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3087,7 +5887,24 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-351-1317"
+                "phone": "416-351-1317",
+                "discipline": [
+                    "Film/Video",
+                    "Media and Digital Arts",
+                    "Publications and Publishing"
+                ],
+                "centreType": [
+                    "Distribution Centre",
+                    "Information Centre"
+                ],
+                "association": [
+                    "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                    "Independent Media Arts Alliance (IMAA)"
+                ],
+                "url": "https://vtape.org/",
+                "language": "EN",
+                "email": "info@vtape.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3105,7 +5922,26 @@
                 "city": "Vancouver",
                 "province": "British Columbia",
                 "postalCode": "V6A 3Y1",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Publications and Publishing",
+                    "Sound Art and Music"
+                ],
+                "centreType": [
+                    "No Fixed Location",
+                    "Production Centre",
+                    "Publisher"
+                ],
+                "association": [
+                    "Independent Media Arts Alliance (IMAA)",
+                    "Pacific Association of Artist-Run Centres (PAARC)"
+                ],
+                "url": "-",
+                "language": "EN",
+                "email": "-",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3123,7 +5959,23 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5T 1H5",
-                "phone": "-"
+                "phone": "-",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": "Exhibition Centre",
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://whippersnapper.ca/",
+                "language": "EN",
+                "email": "general@whippersnapper.ca",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3141,7 +5993,27 @@
                 "city": "North Bay",
                 "province": "Ontaria",
                 "postalCode": "P1B 1A9",
-                "phone": "705-476-2444"
+                "phone": "705-476-2444",
+                "discipline": [
+                    "Crafts",
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Sound Art and Music",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "https://whitewatergallery.com/",
+                "language": "EN",
+                "email": "info@whitewatergallery.com",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3159,7 +6031,27 @@
                 "city": "Toronto",
                 "province": "Ontaria",
                 "postalCode": "M5V 3A8",
-                "phone": "416-598-4546"
+                "phone": "416-598-4546",
+                "discipline": [
+                    "Film/Video",
+                    "Interdisciplinary",
+                    "Media and Digital Arts",
+                    "Performance and Live Arts",
+                    "Printmaking",
+                    "Publications and Publishing",
+                    "Visual Arts"
+                ],
+                "centreType": [
+                    "Artists' Residencies",
+                    "Exhibition Centre",
+                    "Information Centre",
+                    "Publisher"
+                ],
+                "association": "Artist-Run Centres & Collectives of Ontario (ARCCO)",
+                "url": "http://www.yyzartistsoutlet.org",
+                "language": "EN",
+                "email": "yyz@yyzartistsoutlet.org",
+                "established": ""
             },
             "geometry": {
                 "type": "Point",

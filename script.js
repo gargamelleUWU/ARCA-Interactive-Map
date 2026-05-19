@@ -2,7 +2,7 @@
 // Setting bounds in an array
 var bound = [
     [38.0, -145.0],     // Southwest corner
-    [70.0, -45.0]       // Northeast corner
+    [70.0, -39.0]       // Northeast corner
 ]
 
 // Initializing the map
@@ -27,17 +27,18 @@ var markers = L.markerClusterGroup({
     iconCreateFunction: function (cluster) {
         var count = cluster.getChildCount();
 
-        // 1. Define your data bounds
+        // 1. Define min and max of the clusters
         var min = 2;
         var max = 33;
 
-        // 2. Define your colors in RGB format
-        // Blue: #004488 -> rgb(0, 68, 136)
+        // 2. Define arca colors
+        // Blue
         var r1 = 0, g1 = 68, b1 = 136;
-        // Orange: #FF6600 -> rgb(255, 102, 0)
+
+        // Orange
         var r2 = 255, g2 = 102, b2 = 0;
 
-        // 3. Calculate the interpolation percentage (t)
+        // 3. calculating lerp color based on cluster size
         var t = (count - min) / (max - min);
 
         // Clamp t between 0 and 1 to prevent math errors if a cluster exceeds 33

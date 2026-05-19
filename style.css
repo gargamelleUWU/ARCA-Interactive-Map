@@ -96,6 +96,7 @@ html {
     font-weight: bold;
     text-transform: uppercase;
     padding: 4px 6px;
+    color: #ffffff;
     border: 2px solid #000;
     white-space: nowrap;
     /* Prevents text inside a tag from breaking in half */
@@ -105,14 +106,12 @@ html {
 .tag-type {
     background-color: #004488;
     /* Deep Blue */
-    color: #ffffff;
     border-color: #004488;
 }
 
 .tag-discipline {
     background-color: #FF6600;
     /* Sharp Orange */
-    color: #ffffff;
     border-color: #FF6600;
 }
 
@@ -120,7 +119,6 @@ html {
 .tag-contact {
     background-color: #999999;
     /* Dark Neutral Grey */
-    color: #ffffff;
     border-color: #999999;
 }
 

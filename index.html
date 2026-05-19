@@ -19,8 +19,9 @@
 <body>
 
     <div class="map-controls">
+        <!-- Search Bar-->
         <input type="text" id="searchName" placeholder="Search by name...">
-        <!-- make check boxes since we can select multiple disiplines-->
+        <!-- Discipline Filter (Make Check Boxes so multiple can be selected)-->
         <select id="filterType">
             <option value="all">All Types</option>
             <option value="Architecture">Architecture</option>
@@ -34,12 +35,15 @@
             <option value="Sound Art and Music">Sound Art and Music</option>
             <option value="Visual Arts">Visual Arts</option>
         </select>
-
+        <!--City Filter-->
         <select id="filterCity">
             <option value="all">All Cities</option>
             <option value="Montreal">Montreal</option>
             <option value="Toronto">Toronto</option>
         </select>
+        <!--Add Association Filter-->
+        <!--Add Province Filter-->
+        <!--Add all other filters-->
     </div>
 
     <div id="map"></div>
@@ -51,6 +55,7 @@
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 
     <!-- 3. Your Custom Code (MUST come last) -->
+    <!--Map Logic-->
     <script src="script.js"></script>
 </body>
 

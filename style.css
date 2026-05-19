@@ -15,41 +15,144 @@ html {
     box-sizing: border-box;
 }
 
-/*Stripping away Leaflet's default tooltip styles and applying a brutalist design*/
-.leaflet-tooltip.brutalist-tooltip {
+/* 1. Break Leaflet's hardcoded popup width restriction */
+.leaflet-popup.brutalist-tooltip .leaflet-popup-content {
+    width: auto !important;
+    margin: 0;
+}
+
+/* 2. Apply your brutalist styling to the Popup's white wrapper */
+.leaflet-popup.brutalist-tooltip .leaflet-popup-content-wrapper {
     background-color: #ffffff;
     color: #000000;
     border: none;
-    /* border: 1px solid #0d0053; */
     border-radius: 0px;
     box-shadow: none;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 14px;
-    padding: 12px 16px;
-    white-space: nowrap;
+    padding: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-/*Hiding the little directional triangle Leaflet usually attaches to tooltips */
-.leaflet-tooltip.brutalist-tooltip::before {
+/* 3. Hide the little triangle pointer at the bottom */
+.leaflet-popup.brutalist-tooltip .leaflet-popup-tip-container {
     display: none;
 }
 
 /*Styling the text inside custom HTML structure */
-.arca-hover-content .hover-title {
-    font-size: 14px;
+/* Container formatting */
+.arca-hover-content {
+    min-width: 450px;
+    max-width: 550px;
+
+    max-height: 50vh;
+
+    overflow-y: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    font-family: inherit;
+    /* Inherits site's main font */
+}
+
+/* Discipline and Centre Type headers*/
+.tag-label {
+    font-size: 0.7rem;
     font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    color: #666666;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+}
+
+/* Space out the two tag sections */
+.tag-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.hover-title {
+    font-weight: 800;
+    font-size: 1.15rem;
+    text-transform: uppercase;
+    line-height: 1.2;
     margin-bottom: 4px;
 }
 
-.arca-hover-content .hover-details {
-    font-size: 12px;
-    color: #aaaaaa;
-    margin-bottom: 6px;
+.hover-city {
+    font-size: 0.9rem;
+    font-weight: bold;
 }
 
-.arca-hover-content .hover-city {
-    font-size: 10px;
-    color: #47a0ff;
+/* Tag Container & Flexbox */
+.hover-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+/* Base Tag Style - Brutalist blocks */
+.arca-tag {
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 4px 6px;
+    border: 2px solid #000;
+    white-space: nowrap;
+    /* Prevents text inside a tag from breaking in half */
+}
+
+/* Distinct colors for Types vs Disciplines */
+.tag-type {
+    background-color: #004488;
+    /* Deep Blue */
+    color: #ffffff;
+    border-color: #004488;
+}
+
+.tag-discipline {
+    background-color: #FF6600;
+    /* Sharp Orange */
+    color: #ffffff;
+    border-color: #FF6600;
+}
+
+/* Grey color for Contact info */
+.tag-contact {
+    background-color: #999999;
+    /* Dark Neutral Grey */
+    color: #ffffff;
+    border-color: #999999;
+}
+
+.hover-footer {
+    font-size: 0.8rem;
+    border-top: 2px solid #000;
+    padding-top: 8px;
+}
+
+/* Strips away Leaflet's invisible wrapper box */
+.custom-cluster-wrapper {
+    background: transparent;
+    border: none;
+}
+
+/* Styles the actual dynamic color circle */
+.arca-dynamic-cluster {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: inherit;
+    /* Matches your brutalist popups */
+    font-size: 14px;
+
+    /* Flexbox centers the number perfectly in the circle */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Adds a white border to make it pop off the grey map */
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }

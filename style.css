@@ -6,33 +6,176 @@ html {
     background-color: #000;
 }
 
-#map {
-    height: 100vh;
-    /*making map take entire viewport height*/
-    width: 100%;
-    /*making map take entire viewport width*/
-    border: 2px solid #ffffff;
-    box-sizing: border-box;
+/* --- Entire Filter Section --- */
+.map-controls {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 
-/* 1. Break Leaflet's hardcoded popup width restriction */
+/* Buttons next to search box */
+.arca-btn {
+    padding: 4px 10px;
+    border-radius: 50px;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    user-select: none;
+    background-color: transparent;
+    border: 2px solid black;
+    color: black;
+    cursor: pointer;
+}
+
+.arca-btn:hover {
+    background-color: rgb(212, 212, 212);
+}
+
+.arca-btn:active {
+    background-color: rgb(212, 212, 212);
+    transform: scale(0.96);
+    /* Subtle visual "sink" effect on click */
+}
+
+/* The actual map */
+#map {
+    width: 100%;
+    /*making map take entire viewport width*/
+    aspect-ratio: 16/9;
+    min-height: 400px;
+    max-height: 83vh;
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+/* Row holding the search boxes */
+.search-row {
+    display: flex;
+    gap: 5px;
+}
+
+/* Slimmer search bars */
+.search-row input {
+    width: 100%;
+    max-width: 200px;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+    font-family: inherit;
+    background-color: #ffffff;
+    border: 2px solid #505050;
+    color: #000000;
+    border-radius: 50px;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+
+/* Hover effect for the text boxes */
+.search-row input:hover {
+    background-color: #dfdfdf;
+    /* Subtle light grey */
+}
+
+/* Reverts to white and highlights the ARCA blue border when actively typing */
+.search-row input:focus {
+    background-color: #ffffff;
+    border-color: #004488;
+}
+
+/* Titles showing "Disciplines" and "Centre Type" */
+.filter-title {
+    font-size: 0.7rem;
+    /* Smaller titles */
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #3a3a3a;
+    margin-bottom: 4px;
+    /* Tighter margin */
+    letter-spacing: 0.5px;
+}
+
+/* Container for all the checkboxes */
+.pill-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    /* Tighter spacing between pills */
+}
+
+/* --- Slimmer Checkbox Pills --- */
+.arca-checkbox-pill input[type="checkbox"] {
+    display: none;
+}
+
+.arca-checkbox-pill span {
+    display: inline-block;
+    padding: 4px 10px;
+    /* Reduced padding for smaller buttons */
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 0.65rem;
+    /* Smaller button text */
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all 0.2s ease;
+    user-select: none;
+    background-color: transparent;
+}
+
+/* Type Buttons (Blue) */
+.arca-checkbox-pill input.filter-type+span {
+    border: 1px solid #004488;
+    /* Thinner borders */
+    color: #004488;
+}
+
+.arca-checkbox-pill:hover input.filter-type:not(:checked)+span {
+    background-color: rgba(0, 68, 136, 0.1);
+}
+
+.arca-checkbox-pill input.filter-type:checked+span {
+    background-color: #004488;
+    color: #ffffff;
+}
+
+/* Discipline Buttons (Orange) */
+.arca-checkbox-pill input.filter-discipline+span {
+    border: 1px solid #FF6600;
+    /* Thinner borders */
+    color: #FF6600;
+}
+
+.arca-checkbox-pill:hover input.filter-discipline:not(:checked)+span {
+    background-color: rgba(255, 102, 0, 0.1);
+}
+
+.arca-checkbox-pill input.filter-discipline:checked+span {
+    background-color: #FF6600;
+    color: #ffffff;
+}
+
+/* Removing Leaflet's custom popup */
 .leaflet-popup.brutalist-tooltip .leaflet-popup-content {
     width: auto !important;
     margin: 0;
 }
 
-/* 2. Apply your brutalist styling to the Popup's white wrapper */
+/* Applying custom popup (white box holding centre info) */
 .leaflet-popup.brutalist-tooltip .leaflet-popup-content-wrapper {
     background-color: #ffffff;
     color: #000000;
     border: none;
     border-radius: 0px;
-    box-shadow: none;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.8);
     padding: 16px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-/* 3. Hide the little triangle pointer at the bottom */
+/* Hiding white triangle pointing to the marker generating the info */
 .leaflet-popup.brutalist-tooltip .leaflet-popup-tip-container {
     display: none;
 }
@@ -42,16 +185,12 @@ html {
 .arca-hover-content {
     min-width: 450px;
     max-width: 550px;
-
     max-height: 50vh;
-
     overflow-y: auto;
-
     display: flex;
     flex-direction: column;
     gap: 12px;
     font-family: inherit;
-    /* Inherits site's main font */
 }
 
 /* Discipline and Centre Type headers*/
@@ -99,26 +238,22 @@ html {
     color: #ffffff;
     border: 2px solid #000;
     white-space: nowrap;
-    /* Prevents text inside a tag from breaking in half */
 }
 
 /* Distinct colors for Types vs Disciplines */
 .tag-type {
     background-color: #004488;
-    /* Deep Blue */
     border-color: #004488;
 }
 
 .tag-discipline {
     background-color: #FF6600;
-    /* Sharp Orange */
     border-color: #FF6600;
 }
 
 /* Grey color for Contact info */
 .tag-contact {
     background-color: #999999;
-    /* Dark Neutral Grey */
     border-color: #999999;
 }
 
@@ -128,13 +263,13 @@ html {
     padding-top: 8px;
 }
 
-/* Strips away Leaflet's invisible wrapper box */
+/* Removes Leaflet's invisible wrapper box */
 .custom-cluster-wrapper {
     background: transparent;
     border: none;
 }
 
-/* Styles the actual dynamic color circle */
+/* Creates the stylized marker clusters with dynamic colors */
 .arca-dynamic-cluster {
     width: 40px;
     height: 40px;
@@ -142,15 +277,32 @@ html {
     color: #ffffff;
     font-weight: bold;
     font-family: inherit;
-    /* Matches your brutalist popups */
     font-size: 14px;
-
     /* Flexbox centers the number perfectly in the circle */
     display: flex;
     align-items: center;
     justify-content: center;
-
     /* Adds a white border to make it pop off the grey map */
     border: 2px solid #ffffff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+/* Reset Map Button */
+/* Ensures the custom button control fits nicely within Leaflet's layout grid */
+.custom-reset-control {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    margin-top: 5px !important;
+    /* Space between Zoom (-) and Reset Map */
+}
+
+/* Force the button to maintain its design structure when rendered inside Leaflet */
+#resetMapBtn {
+    display: inline-block;
+    white-space: nowrap;
+    background-color: #ffffff;
+    width: 35px;
+    /* Gives it a solid background so map lines don't bleed through */
 }

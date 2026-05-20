@@ -15,36 +15,100 @@
 </head>
 
 <body>
-
+    <!-- Search Box Section -->
     <div class="map-controls">
-        <!-- Search Bar-->
-        <input type="text" id="searchName" placeholder="Search by name...">
-        <!-- Discipline Filter (Make Check Boxes so multiple can be selected)-->
-        <select id="filterType">
-            <option value="all">All Types</option>
-            <option value="Architecture">Architecture</option>
-            <option value="Crafts">Crafts</option>
-            <option value="Film/Video">Film/Video</option>
-            <option value="Interdisciplinary">Interdisciplinary</option>
-            <option value="Media and Digital Arts">Media and Digital Arts</option>
-            <option value="Performance and Live Arts">Performance and Live Arts</option>
-            <option value="Printmaking">Printmaking</option>
-            <option value="Publications and Publishing">Publications and Publishing</option>
-            <option value="Sound Art and Music">Sound Art and Music</option>
-            <option value="Visual Arts">Visual Arts</option>
-        </select>
-        <!--City Filter-->
-        <select id="filterCity">
-            <option value="all">All Cities</option>
-            <option value="Montreal">Montreal</option>
-            <option value="Toronto">Toronto</option>
-        </select>
-        <!--Add Association Filter-->
-        <!--Add Province Filter-->
-        <!--Add all other filters-->
+        <div class="search-row">
+            <input type="text" id="searchName" placeholder="Search Centre Name...">
+            <input type="text" id="searchCity" placeholder="Search City...">
+            <button id="resetFiltersBtn" class="arca-btn">Clear Filters</button>
+        </div>
+
+        <!-- Discipline Filter Checkbox Section -->
+        <div class="filter-group" id="filterDisciplineGroup">
+            <div class="filter-title">Disciplines</div>
+            <div class="pill-container">
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Architecture">
+                    <span>Architecture</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Crafts">
+                    <span>Crafts</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Film/Video">
+                    <span>Film and Video</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Interdisciplinary">
+                    <span>Interdisciplinary</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Media and Digital Arts">
+                    <span>Media and Digital Arts</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Performance and Live Arts">
+                    <span>Performance and Live Arts</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Printmaking">
+                    <span>Printmaking</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Publications and Publishing">
+                    <span>Publications and Publishing</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Sound Art and Music">
+                    <span>Sound Art and Music</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-discipline" value="Visual Arts">
+                    <span>Visual Arts</span>
+                </label>
+            </div>
+        </div>
+
+        <!-- Centre Type Filter Section -->
+        <div class="filter-group" id="filterTypeGroup">
+            <div class="filter-title">Centre Type</div>
+            <div class="pill-container">
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="Artists' Residencies">
+                    <span>Artists' Residencies</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="No Fixed Location">
+                    <span>Centre Without Fixed Location</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="Distribution Centre">
+                    <span>Distribution Centre</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="Exhibition Centre">
+                    <span>Exhibition Centre</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="Information Centre">
+                    <span>Information Centre</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="Production Centre">
+                    <span>Production Centre</span>
+                </label>
+                <label class="arca-checkbox-pill">
+                    <input type="checkbox" class="filter-type" value="Publisher">
+                    <span>Publisher</span>
+                </label>
+            </div>
+        </div>
     </div>
 
-    <div id="map"></div>
+    <!-- Actual Map is Displayed below the search/filter box -->
+    <div id="map">
+    </div>
 
     <!-- 1. Main Leaflet Library -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>

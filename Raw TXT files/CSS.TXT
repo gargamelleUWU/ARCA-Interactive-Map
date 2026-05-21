@@ -1,9 +1,16 @@
-body,
 html {
     margin: 0;
     padding: 0;
     height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
     background-color: #000;
+    display: flex;
+    flex-direction: row;
 }
 
 /* --- Entire Filter Section --- */
@@ -14,12 +21,75 @@ html {
     padding: 15px;
     display: flex;
     flex-direction: column;
-    gap: 5px;
+
+    /* These changed to fill the wrapper instead of the screen */
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    box-sizing: border-box;
+
+    /* Keeps the shadow on the main white box */
+    box-shadow: 4px 0px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* The actual map */
+#map {
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+    z-index: 1;
+
+    flex-grow: 1;
+    width: 100%;
+    /* Safety net for Leaflet inside Flexbox */
+    height: 100vh;
+}
+
+.sidebar-wrapper {
+    position: relative;
+    width: 250px;
+    min-width: 250px;
+    height: 100vh;
+    transition: margin-left 0.3s ease;
+    /* Animate the slide */
+    z-index: 1000;
+    /* Keeps the sidebar and button above the map */
+}
+
+.sidebar-wrapper.collapsed {
+    margin-left: -250px;
+}
+
+.collapse-toggle {
+    position: absolute;
+    top: 50%;
+    right: -30px;
+    /* Pushes the button exactly outside the right edge */
+    transform: translateY(-50%);
+    width: 30px;
+    height: 60px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 0 60px 60px 0;
+    /* Creates the right-facing semi-circle */
+    box-shadow: 4px 0px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    font-size: 14px;
+    color: #000;
+
+    /* z-index -1 tucks the flat left edge of the button cleanly UNDER the 
+       sidebar, so they look perfectly fused together */
+    z-index: -1;
+    transition: background-color 0.2s ease;
+}
+
+.collapse-toggle:hover {
+    background-color: #efefef;
 }
 
 /* Buttons next to search box */
 .arca-btn {
     padding: 4px 10px;
+    width: 95px;
     border-radius: 50px;
     font-size: 0.65rem;
     text-transform: uppercase;
@@ -41,28 +111,18 @@ html {
     /* Subtle visual "sink" effect on click */
 }
 
-/* The actual map */
-#map {
-    width: 100%;
-    /*making map take entire viewport width*/
-    aspect-ratio: 16/9;
-    min-height: 400px;
-    max-height: 83vh;
-    border: 2px solid #ffffff;
-    box-sizing: border-box;
-    z-index: 1;
-}
-
 /* Row holding the search boxes */
 .search-row {
     display: flex;
+    flex-direction: column;
     gap: 5px;
 }
 
 /* Slimmer search bars */
 .search-row input {
     width: 100%;
-    max-width: 200px;
+    /* ADDED box-sizing to prevent padding from causing overflow */
+    box-sizing: border-box;
     padding: 6px 14px;
     font-size: 0.85rem;
     font-family: inherit;
@@ -83,11 +143,12 @@ html {
 /* Reverts to white and highlights the ARCA blue border when actively typing */
 .search-row input:focus {
     background-color: #ffffff;
-    border-color: #004488;
+    border-color: #000090;
 }
 
 /* Titles showing "Disciplines" and "Centre Type" */
 .filter-title {
+    margin-top: 10px;
     font-size: 0.7rem;
     /* Smaller titles */
     font-weight: bold;
@@ -128,9 +189,9 @@ html {
 
 /* Type Buttons (Blue) */
 .arca-checkbox-pill input.filter-type+span {
-    border: 1px solid #004488;
+    border: 1px solid #000090;
     /* Thinner borders */
-    color: #004488;
+    color: #000090;
 }
 
 .arca-checkbox-pill:hover input.filter-type:not(:checked)+span {
@@ -138,15 +199,15 @@ html {
 }
 
 .arca-checkbox-pill input.filter-type:checked+span {
-    background-color: #004488;
+    background-color: #000090;
     color: #ffffff;
 }
 
 /* Discipline Buttons (Orange) */
 .arca-checkbox-pill input.filter-discipline+span {
-    border: 1px solid #FF6600;
+    border: 1px solid #ff3c00;
     /* Thinner borders */
-    color: #FF6600;
+    color: #ff3c00;
 }
 
 .arca-checkbox-pill:hover input.filter-discipline:not(:checked)+span {
@@ -154,7 +215,7 @@ html {
 }
 
 .arca-checkbox-pill input.filter-discipline:checked+span {
-    background-color: #FF6600;
+    background-color: #ff3c00;
     color: #ffffff;
 }
 
@@ -171,25 +232,23 @@ html {
     border: none;
     border-radius: 0px;
     box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.8);
-    padding: 16px;
+    padding: 12px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-/* Hiding white triangle pointing to the marker generating the info */
-.leaflet-popup.brutalist-tooltip .leaflet-popup-tip-container {
-    display: none;
-}
+
 
 /*Styling the text inside custom HTML structure */
 /* Container formatting */
 .arca-hover-content {
-    min-width: 450px;
-    max-width: 550px;
+    /* REPLACED min-width WITH THESE: */
+    width: 380px;
+    max-width: 85vw;
     max-height: 50vh;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 8px;
     font-family: inherit;
 }
 
@@ -211,14 +270,29 @@ html {
 
 .hover-title {
     font-weight: 800;
-    font-size: 1.15rem;
+    font-size: 1.05rem;
     text-transform: uppercase;
     line-height: 1.2;
+    margin-bottom: 0;
+}
+
+.hover-title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
     margin-bottom: 4px;
 }
 
+.hover-est {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #555555;
+    white-space: nowrap;
+    margin-left: auto;
+}
+
 .hover-city {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-weight: bold;
 }
 
@@ -226,29 +300,30 @@ html {
 .hover-tags-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 4px;
 }
 
 /* Base Tag Style - Brutalist blocks */
 .arca-tag {
-    font-size: 0.75rem;
+    font-size: 0.65rem;
     font-weight: bold;
     text-transform: uppercase;
-    padding: 4px 6px;
+    padding: 3px 8px;
     color: #ffffff;
     border: 2px solid #000;
     white-space: nowrap;
+    border-radius: 50px;
 }
 
 /* Distinct colors for Types vs Disciplines */
 .tag-type {
-    background-color: #004488;
-    border-color: #004488;
+    background-color: #000090;
+    border-color: #000090;
 }
 
 .tag-discipline {
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ff3c00;
+    border-color: #ff3c00;
 }
 
 /* Grey color for Contact info */
@@ -258,9 +333,12 @@ html {
 }
 
 .hover-footer {
-    font-size: 0.8rem;
+    width: 100%;
+    font-size: 0.75rem;
+    text-align: center !important;
     border-top: 2px solid #000;
-    padding-top: 8px;
+    padding-top: 6px;
+    margin-top: 4px;
 }
 
 /* Removes Leaflet's invisible wrapper box */
@@ -310,8 +388,9 @@ html {
 /* --- Cluster Hover Specifics --- */
 
 .cluster-hover-container {
-    min-width: 280px !important;
-    max-width: 350px !important;
+    /* REPLACED min-width WITH THESE: */
+    width: 280px !important;
+    max-width: 85vw !important;
 }
 
 .cluster-names-list {
@@ -344,7 +423,7 @@ html {
 }
 
 .click-to-marker:hover {
-    color: #004488;
+    color: #000090;
     /* Turns ARCA blue on hover */
     text-decoration: underline;
 }

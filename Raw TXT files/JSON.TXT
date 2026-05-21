@@ -30,7 +30,7 @@
                 "url": "https://3e-imperial.org/",
                 "language": "FR",
                 "email": "info@3e-imperial.org",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +65,7 @@
                 "url": "https://www.accessgallery.ca/",
                 "language": "EN",
                 "email": "info@accessgallery.ca",
-                "established": ""
+                "established": "1991"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +100,7 @@
                 "url": "https://aceart.org/",
                 "language": "EN",
                 "email": "admin@aceart.org",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +136,7 @@
                 "url": "https://www.ada-x.org/",
                 "language": "EN/FR",
                 "email": "info@ada-x.org",
-                "established": ""
+                "established": "1996"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +172,7 @@
                 "url": "https://topo.art/",
                 "language": "FR",
                 "email": "bonjour@topo.art",
-                "established": ""
+                "established": "1993"
             },
             "geometry": {
                 "type": "Point",
@@ -206,7 +206,7 @@
                 "url": "https://www.akaartistrun.com/",
                 "language": "EN",
                 "email": "info@akaartistrun.com",
-                "established": ""
+                "established": "1971"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +239,7 @@
                 "url": "-",
                 "language": "-",
                 "email": "arnicaarc@gmail.com",
-                "established": ""
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +267,7 @@
                 "url": "https://www.arprim.org/",
                 "language": "FR",
                 "email": "info@arprim.org",
-                "established": ""
+                "established": "1978"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +304,7 @@
                 "url": "https://artcityinc.com/",
                 "language": "EN",
                 "email": "eddie@artcityinc.com",
-                "established": ""
+                "established": "1998"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +331,7 @@
                 "url": "https://www.artgalleryofregina.ca/",
                 "language": "EN",
                 "email": "info@artgalleryofregina.ca",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +370,7 @@
                 "url": "https://artexte.ca/",
                 "language": "FR",
                 "email": "info@artexte.ca",
-                "established": ""
+                "established": "1980"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +399,7 @@
                 "url": "https://www.articule.org/en/home",
                 "language": "FR",
                 "email": "info@articule.org",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +437,7 @@
                 "url": "https://aanm.ca/",
                 "language": "EN",
                 "email": "info@aanm.ca",
-                "established": ""
+                "established": "2008"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +477,7 @@
                 "url": "https://www.artspeak.ca/",
                 "language": "EN",
                 "email": "office@artspeak.ca",
-                "established": ""
+                "established": "1986"
             },
             "geometry": {
                 "type": "Point",
@@ -512,7 +512,7 @@
                 "url": "https://www.arcac.ca/",
                 "language": "EN",
                 "email": "artsplace@arcac.ca",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -544,7 +544,7 @@
                 "url": "https://ateliercirculaire.org/",
                 "language": "FR",
                 "email": "info@ateliercirculaire.org",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -578,7 +578,7 @@
                 "url": "https://www.atelier.qc.ca/",
                 "language": "FR",
                 "email": "info@atelier.qc.ca",
-                "established": ""
+                "established": "1975"
             },
             "geometry": {
                 "type": "Point",
@@ -591,7 +591,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Atelier Graff",
+                "name": "L'imprimerie (Atelier Graff)",
                 "address": "963 rue Rachel Est",
                 "city": "Montréal",
                 "province": "Québec",
@@ -637,7 +637,7 @@
                 "url": "https://www.pressepapier.net/",
                 "language": "FR",
                 "email": "presse.papier.atelier@cgocable.ca",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +669,7 @@
                 "url": "https://www.ateliersilex.org/",
                 "language": "FR",
                 "email": "info@ateliersilex.org",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -703,7 +703,7 @@
                 "url": "-",
                 "language": "FR",
                 "email": "info@touttout.org",
-                "established": ""
+                "established": "1997"
             },
             "geometry": {
                 "type": "Point",
@@ -739,7 +739,7 @@
                 "url": "https://afcoop.ca/",
                 "language": "EN",
                 "email": "erica@afcoop.ca",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -774,7 +774,7 @@
                 "url": "https://www.atollartactuel.com/",
                 "language": "FR",
                 "email": "direction@atollartactuel.com",
-                "established": ""
+                "established": "1985"
             },
             "geometry": {
                 "type": "Point",
@@ -801,7 +801,7 @@
                 "url": "https://atsa.qc.ca/en/",
                 "language": "FR",
                 "email": "info@atsa.qc.ca",
-                "established": ""
+                "established": "1998"
             },
             "geometry": {
                 "type": "Point",
@@ -838,7 +838,7 @@
                 "url": "https://axeneo7.qc.ca/",
                 "language": "FR",
                 "email": "axeneo7@axeneo7.qc.ca",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -870,7 +870,7 @@
                 "url": "https://c2centreforcraft.ca/",
                 "language": "EN",
                 "email": "mcc@c2centreforcraft.ca",
-                "established": ""
+                "established": "1978"
             },
             "geometry": {
                 "type": "Point",
@@ -903,7 +903,7 @@
                 "url": "https://centrebang.ca/",
                 "language": "FR",
                 "email": "information@centrebang.ca",
-                "established": ""
+                "established": "1958"
             },
             "geometry": {
                 "type": "Point",
@@ -936,7 +936,7 @@
                 "url": "https://skol.ca/en/",
                 "language": "FR",
                 "email": "skol@skol.ca",
-                "established": ""
+                "established": "1986"
             },
             "geometry": {
                 "type": "Point",
@@ -974,7 +974,7 @@
                 "url": "https://centreclark.com/en/",
                 "language": "FR",
                 "email": "info@centreclark.com",
-                "established": ""
+                "established": "1988"
             },
             "geometry": {
                 "type": "Point",
@@ -1003,7 +1003,7 @@
                 "url": "https://www.caravanserail.org/",
                 "language": "FR",
                 "email": "communication@caravanserail.org",
-                "established": ""
+                "established": "2003"
             },
             "geometry": {
                 "type": "Point",
@@ -1040,7 +1040,7 @@
                 "url": "https://www.lelobe.com/",
                 "language": "FR",
                 "email": "info@lelobe.com",
-                "established": ""
+                "established": "1993"
             },
             "geometry": {
                 "type": "Point",
@@ -1076,7 +1076,7 @@
                 "url": "https://vasteetvague.ca/",
                 "language": "FR",
                 "email": "direction@vasteetvague.ca",
-                "established": ""
+                "established": "1990"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,7 +1111,7 @@
                 "url": "https://www.cfat.ca/",
                 "language": "EN",
                 "email": "executivedirector@cfat.ca",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -1141,7 +1141,7 @@
                 "url": "https://centremateria.com/",
                 "language": "FR",
                 "email": "info@mmaq.com",
-                "established": ""
+                "established": "2003"
             },
             "geometry": {
                 "type": "Point",
@@ -1175,7 +1175,7 @@
                 "url": "https://www.sagamie.com/en",
                 "language": "FR",
                 "email": "info@sagamie.com",
-                "established": ""
+                "established": "1981"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,7 +1213,7 @@
                 "url": "https://centreturbine.org/",
                 "language": "FR",
                 "email": "info@centreturbine.org",
-                "established": ""
+                "established": "1999"
             },
             "geometry": {
                 "type": "Point",
@@ -1241,7 +1241,7 @@
                 "url": "https://circa-art.com/en/home/",
                 "language": "FR",
                 "email": "circa@circa-art.com",
-                "established": ""
+                "established": "1988"
             },
             "geometry": {
                 "type": "Point",
@@ -1271,7 +1271,7 @@
                 "url": "https://www.commonweal.ca/",
                 "language": "EN",
                 "email": "drichardson@commonweal.ca",
-                "established": ""
+                "established": "1992"
             },
             "geometry": {
                 "type": "Point",
@@ -1308,7 +1308,7 @@
                 "url": "https://daimon.qc.ca/en/",
                 "language": "FR/EN",
                 "email": "info@daimon.qc.ca",
-                "established": ""
+                "established": "1986"
             },
             "geometry": {
                 "type": "Point",
@@ -1342,7 +1342,7 @@
                 "url": "https://www.dare-dare.org/en/",
                 "language": "FR",
                 "email": "comm@dare-dare.org",
-                "established": ""
+                "established": "1985"
             },
             "geometry": {
                 "type": "Point",
@@ -1376,7 +1376,7 @@
                 "url": "https://en.dazibao.art/",
                 "language": "FR",
                 "email": "info@dazibao.org",
-                "established": ""
+                "established": "1980"
             },
             "geometry": {
                 "type": "Point",
@@ -1408,7 +1408,7 @@
                 "url": "http://www.artdiagonale.org/",
                 "language": "FR",
                 "email": "administration@artdiagonale.org",
-                "established": ""
+                "established": "2004"
             },
             "geometry": {
                 "type": "Point",
@@ -1444,7 +1444,7 @@
                 "url": "https://www.easternbloc.ca/",
                 "language": "FR/EN",
                 "email": "comm@easternbloc.ca",
-                "established": ""
+                "established": "2007"
             },
             "geometry": {
                 "type": "Point",
@@ -1482,7 +1482,7 @@
                 "url": "https://easternedge.ca/",
                 "language": "EN",
                 "email": "easternedgegallery@gmail.com",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -1514,7 +1514,7 @@
                 "url": "https://engramme.ca/",
                 "language": "FR",
                 "email": "info@engramme.ca",
-                "established": ""
+                "established": "1972"
             },
             "geometry": {
                 "type": "Point",
@@ -1547,7 +1547,7 @@
                 "url": "https://estnordest.org/",
                 "language": "FR",
                 "email": "info@estnordest.org",
-                "established": ""
+                "established": "1992"
             },
             "geometry": {
                 "type": "Point",
@@ -1578,7 +1578,7 @@
                 "url": "https://exmuro.com/",
                 "language": "FR",
                 "email": "info@exmuro.com",
-                "established": ""
+                "established": "2007"
             },
             "geometry": {
                 "type": "Point",
@@ -1615,7 +1615,7 @@
                 "url": "http://eyelevel.art/",
                 "language": "EN",
                 "email": "sally@eyelevel.art",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -1645,7 +1645,7 @@
                 "url": "https://fillip.ca/",
                 "language": "EN",
                 "email": "fillip@fillip.ca",
-                "established": ""
+                "established": "2004"
             },
             "geometry": {
                 "type": "Point",
@@ -1679,7 +1679,7 @@
                 "url": "https://folieculture.org/",
                 "language": "FR",
                 "email": "fc@folieculture.org",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -1712,7 +1712,7 @@
                 "url": "https://www.galerieb312.ca/",
                 "language": "FR",
                 "email": "info@galerieb312.ca",
-                "established": ""
+                "established": "1991"
             },
             "geometry": {
                 "type": "Point",
@@ -1750,7 +1750,7 @@
                 "url": "https://www.galeriesansnom.org/",
                 "language": "FR/EN",
                 "email": "info@galeriesansnom.org",
-                "established": ""
+                "established": "1977"
             },
             "geometry": {
                 "type": "Point",
@@ -1792,7 +1792,7 @@
                 "url": "https://gachet.org/",
                 "language": "EN",
                 "email": "contact@gachet.org",
-                "established": ""
+                "established": "1992"
             },
             "geometry": {
                 "type": "Point",
@@ -1827,7 +1827,7 @@
                 "url": "https://www.givideo.org/",
                 "language": "FR",
                 "email": "info@givideo.org",
-                "established": ""
+                "established": "1975"
             },
             "geometry": {
                 "type": "Point",
@@ -1854,7 +1854,7 @@
                 "url": "https://www.khyber.ca/",
                 "language": "EN",
                 "email": "info@khyber.ca",
-                "established": ""
+                "established": "1995"
             },
             "geometry": {
                 "type": "Point",
@@ -1885,7 +1885,7 @@
                 "url": "https://limprimerie.art/",
                 "language": "FR/EN",
                 "email": "art@limprimerie.art",
-                "established": ""
+                "established": "1966"
             },
             "geometry": {
                 "type": "Point",
@@ -1921,7 +1921,7 @@
                 "url": "http://labandevideo.com/",
                 "language": "FR",
                 "email": "adm@labandevideo.com",
-                "established": ""
+                "established": "1977"
             },
             "geometry": {
                 "type": "Point",
@@ -1959,7 +1959,7 @@
                 "url": "https://www.lacentrale.org/",
                 "language": "FR/EN",
                 "email": "galerie@lacentrale.org",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -1994,7 +1994,7 @@
                 "url": "https://www.chambreblanche.qc.ca/",
                 "language": "FR",
                 "email": "info@chambreblanche.qc.ca",
-                "established": ""
+                "established": "1978"
             },
             "geometry": {
                 "type": "Point",
@@ -2030,7 +2030,7 @@
                 "url": "https://maisondesartistes.mb.ca/",
                 "language": "FR",
                 "email": "info@maisondesartistes.mb.ca",
-                "established": ""
+                "established": "2000"
             },
             "geometry": {
                 "type": "Point",
@@ -2066,7 +2066,7 @@
                 "url": "https://www.langageplus.com/",
                 "language": "FR",
                 "email": "info@langageplus.com",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -2095,7 +2095,7 @@
                 "url": "https://www.latitude53.org/",
                 "language": "EN",
                 "email": "info@latitude53.org",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -2133,7 +2133,7 @@
                 "url": "https://inter-lelieu.org/",
                 "language": "FR",
                 "email": "infos@inter-lelieu.org",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -2173,7 +2173,7 @@
                 "url": "https://lecart.org/fr/",
                 "language": "FR",
                 "email": "info@lecart.org",
-                "established": ""
+                "established": "1989"
             },
             "geometry": {
                 "type": "Point",
@@ -2213,7 +2213,7 @@
                 "url": "https://oeildepoisson.com/",
                 "language": "FR",
                 "email": "info@oeildepoisson.com",
-                "established": ""
+                "established": "1985"
             },
             "geometry": {
                 "type": "Point",
@@ -2250,7 +2250,7 @@
                 "url": "https://maisondelarchitecture.ca/",
                 "language": "FR",
                 "email": "marchitectureduquebec@gmail.com",
-                "established": ""
+                "established": "2001"
             },
             "geometry": {
                 "type": "Point",
@@ -2291,7 +2291,7 @@
                 "url": "https://www.malaspinaprintmakers.com/",
                 "language": "EN",
                 "email": "info@malaspinaprintmakers.com",
-                "established": ""
+                "established": "1975"
             },
             "geometry": {
                 "type": "Point",
@@ -2324,7 +2324,7 @@
                 "url": "https://www.printmakers.mb.ca/",
                 "language": "EN",
                 "email": "askmartha@printmakers.mb.ca",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -2355,7 +2355,7 @@
                 "url": "https://www.mountainstandardtime.org/",
                 "language": "EN",
                 "email": "info@mountainstandardtime.org",
-                "established": ""
+                "established": "2001"
             },
             "geometry": {
                 "type": "Point",
@@ -2386,7 +2386,7 @@
                 "url": "https://neutralground.sk.ca/",
                 "language": "EN",
                 "email": "program@neutralground.sk.ca",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -2423,7 +2423,7 @@
                 "url": "https://www.oboro.net/",
                 "language": "FR",
                 "email": "oboro@oboro.net",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -2453,7 +2453,7 @@
                 "url": "https://occurrence.ca/",
                 "language": "FR",
                 "email": "info@occurrence.ca",
-                "established": ""
+                "established": "1989"
             },
             "geometry": {
                 "type": "Point",
@@ -2492,7 +2492,7 @@
                 "url": "https://openspace.ca/",
                 "language": "EN",
                 "email": "openspace@openspace.ca",
-                "established": ""
+                "established": "1972"
             },
             "geometry": {
                 "type": "Point",
@@ -2526,7 +2526,7 @@
                 "url": "https://www.optica.ca/",
                 "language": "FR",
                 "email": "info@optica.ca",
-                "established": ""
+                "established": "1972"
             },
             "geometry": {
                 "type": "Point",
@@ -2558,7 +2558,7 @@
                 "url": "https://orgallery.org/",
                 "language": "EN",
                 "email": "or@orgallery.org",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -2591,7 +2591,7 @@
                 "url": "https://othersights.ca/",
                 "language": "EN",
                 "email": "sunshine@othersights.ca",
-                "established": ""
+                "established": "2005"
             },
             "geometry": {
                 "type": "Point",
@@ -2629,7 +2629,7 @@
                 "url": "https://oxygenartcentre.org/",
                 "language": "EN",
                 "email": "info@oxygenartcentre.org",
-                "established": ""
+                "established": "2002"
             },
             "geometry": {
                 "type": "Point",
@@ -2659,7 +2659,7 @@
                 "url": "https://www.panacheartactuel.com/",
                 "language": "FR",
                 "email": "info@panacheartactuel.com",
-                "established": ""
+                "established": "2008"
             },
             "geometry": {
                 "type": "Point",
@@ -2692,7 +2692,7 @@
                 "url": "https://perte-de-signal.org/",
                 "language": "FR",
                 "email": "info@perte-de-signal.org",
-                "established": ""
+                "established": "1997"
             },
             "geometry": {
                 "type": "Point",
@@ -2727,7 +2727,7 @@
                 "url": "https://platformgallery.org/",
                 "language": "EN",
                 "email": "admin@platformgallery.org",
-                "established": ""
+                "established": "1981"
             },
             "geometry": {
                 "type": "Point",
@@ -2758,7 +2758,7 @@
                 "url": "-",
                 "language": "FR",
                 "email": "-",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -2793,7 +2793,7 @@
                 "url": "https://primcentre.org/",
                 "language": "FR",
                 "email": "info@primcentre.org",
-                "established": ""
+                "established": "1981"
             },
             "geometry": {
                 "type": "Point",
@@ -2822,7 +2822,7 @@
                 "url": "-",
                 "language": "-",
                 "email": "-",
-                "established": ""
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,7 +2855,7 @@
                 "url": "https://www.centreregart.org/",
                 "language": "FR",
                 "email": "info@centreregart.org",
-                "established": ""
+                "established": "1986"
             },
             "geometry": {
                 "type": "Point",
@@ -2887,7 +2887,7 @@
                 "url": "https://sans-atelier.com/",
                 "language": "FR",
                 "email": "sans-atelier@gmail.com",
-                "established": ""
+                "established": "2012"
             },
             "geometry": {
                 "type": "Point",
@@ -2921,7 +2921,7 @@
                 "url": "https://www.spira.quebec/",
                 "language": "FR",
                 "email": "info@spira.quebec",
-                "established": ""
+                "established": "2015"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,7 +2955,7 @@
                 "url": "https://sporobole.org/",
                 "language": "FR",
                 "email": "info@sporobole.org",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -2989,7 +2989,7 @@
                 "url": "https://www.stmichaelsprintshop.com/",
                 "language": "EN",
                 "email": "stmichaelsprintshop@gmail.com",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -3023,7 +3023,7 @@
                 "url": "https://www.stride.ab.ca/",
                 "language": "EN",
                 "email": "EVA@STRIDE.AB.CA",
-                "established": ""
+                "established": "1985"
             },
             "geometry": {
                 "type": "Point",
@@ -3066,7 +3066,7 @@
                 "url": "https://www.strutsgallery.ca/",
                 "language": "EN",
                 "email": "info@strutsgallery.ca",
-                "established": ""
+                "established": "1980"
             },
             "geometry": {
                 "type": "Point",
@@ -3107,7 +3107,7 @@
                 "url": "-",
                 "language": "-",
                 "email": "-",
-                "established": ""
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -3150,7 +3150,7 @@
                 "url": "-",
                 "language": "-",
                 "email": "-",
-                "established": ""
+                "established": "2005"
             },
             "geometry": {
                 "type": "Point",
@@ -3191,7 +3191,7 @@
                 "url": "https://thenewgallery.org/",
                 "language": "EN",
                 "email": "info@TheNewGallery.org",
-                "established": ""
+                "established": "1975"
             },
             "geometry": {
                 "type": "Point",
@@ -3224,7 +3224,7 @@
                 "url": "https://www.thistownissmall.com/",
                 "language": "EN",
                 "email": "info@thistownissmall.com",
-                "established": ""
+                "established": "2010"
             },
             "geometry": {
                 "type": "Point",
@@ -3256,7 +3256,7 @@
                 "url": "https://trapdoorarc.org/",
                 "language": "EN",
                 "email": "trapdoorlethbridge@gmail.com",
-                "established": ""
+                "established": "2004"
             },
             "geometry": {
                 "type": "Point",
@@ -3291,7 +3291,7 @@
                 "url": "https://www.unitpitt.ca/",
                 "language": "EN",
                 "email": "info@unitpitt.ca",
-                "established": ""
+                "established": "1975"
             },
             "geometry": {
                 "type": "Point",
@@ -3322,7 +3322,7 @@
                 "url": "https://vasa-art.com/",
                 "language": "EN",
                 "email": "-",
-                "established": ""
+                "established": "2005"
             },
             "geometry": {
                 "type": "Point",
@@ -3362,7 +3362,7 @@
                 "url": "https://verticale.ca/",
                 "language": "FR",
                 "email": "info@verticale.ca",
-                "established": ""
+                "established": "1991"
             },
             "geometry": {
                 "type": "Point",
@@ -3397,7 +3397,7 @@
                 "url": "-",
                 "language": "-",
                 "email": "-",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -3434,7 +3434,7 @@
                 "url": "https://videopool.org/",
                 "language": "EN",
                 "email": "info@videopool.org",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -3470,7 +3470,7 @@
                 "url": "https://www.videographe.org/",
                 "language": "FR",
                 "email": "info@videographe.org",
-                "established": ""
+                "established": "1971"
             },
             "geometry": {
                 "type": "Point",
@@ -3500,7 +3500,7 @@
                 "url": "https://vivamontreal.org/",
                 "language": "FR",
                 "email": "info@vivamontreal.org",
-                "established": ""
+                "established": "2006"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,47 +3540,13 @@
                 "url": "https://www.vivomediaarts.com/",
                 "language": "EN",
                 "email": "info@vivomediaarts.com",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -123.0470862,
                     49.2527814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Void Gallery",
-                "address": "312 Avenue B South",
-                "city": "Saskatoon",
-                "province": "Saskatchewan",
-                "postalCode": "S7M 1M6",
-                "phone": "306-850-6545",
-                "discipline": [
-                    "Interdisciplinary",
-                    "Printmaking",
-                    "Publications and Publishing",
-                    "Visual Arts"
-                ],
-                "centreType": [
-                    "Artists' Residencies",
-                    "Production Centre",
-                    "Publisher"
-                ],
-                "association": "Plains Artist-Run Centres Association (PARCA)",
-                "url": "-",
-                "language": "EN",
-                "email": "-",
-                "established": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.6715957,
-                    52.1255665
                 ]
             }
         },
@@ -3604,7 +3570,7 @@
                 "url": "https://centrevox.ca/",
                 "language": "FR/EN",
                 "email": "info@centrevox.ca",
-                "established": ""
+                "established": "1985"
             },
             "geometry": {
                 "type": "Point",
@@ -3638,7 +3604,7 @@
                 "url": "https://vuphoto.org/fr/",
                 "language": "FR",
                 "email": "info@vuphoto.org",
-                "established": ""
+                "established": "1981"
             },
             "geometry": {
                 "type": "Point",
@@ -3678,7 +3644,7 @@
                 "url": "https://westernfront.ca/",
                 "language": "EN",
                 "email": "info@westernfront.ca",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -3715,7 +3681,7 @@
                 "url": "https://www.winnipegfilmgroup.com/",
                 "language": "EN",
                 "email": "info@winnipegfilmgroup.com",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -3749,7 +3715,7 @@
                 "url": "info@xchangesgallery.org",
                 "language": "EN",
                 "email": "http://www.xchangesgallery.org",
-                "established": ""
+                "established": "1967"
             },
             "geometry": {
                 "type": "Point",
@@ -3780,7 +3746,7 @@
                 "url": "https://ykarcc.wordpress.com/",
                 "language": "EN",
                 "email": "ykarcc@gmail.com",
-                "established": ""
+                "established": "2011"
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +3779,7 @@
                 "url": "https://zocaloweb.org/",
                 "language": "FR",
                 "email": "info@zocaloweb.org",
-                "established": ""
+                "established": "1992"
             },
             "geometry": {
                 "type": "Point",
@@ -3849,7 +3815,7 @@
                 "url": "https://221a.ca/",
                 "language": "EN",
                 "email": "hello@221a.ca",
-                "established": ""
+                "established": "2005"
             },
             "geometry": {
                 "type": "Point",
@@ -3862,7 +3828,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "AdMare Centre D'Artistes en Art Actuel des Îles-De-La-Madelaine",
+                "name": "AdMare Centre D'Artistes en Art Actuel des Îles-De-La-Madeleine",
                 "address": "1349-1 chemin de Lavernière",
                 "city": "L'Étang-du-Nord",
                 "province": "Québec",
@@ -3879,7 +3845,7 @@
                 "url": "https://www.admare.org/",
                 "language": "FR",
                 "email": "laurene@admare.org",
-                "established": ""
+                "established": "2003"
             },
             "geometry": {
                 "type": "Point",
@@ -3914,7 +3880,7 @@
                 "url": "https://albertaprintmakers.com/",
                 "language": "EN",
                 "email": "director@albertaprintmakers.ca",
-                "established": ""
+                "established": "1989"
             },
             "geometry": {
                 "type": "Point",
@@ -3952,7 +3918,7 @@
                 "url": "https://artmetropole.com/",
                 "language": "EN",
                 "email": "info@artmetropole.com",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -3992,7 +3958,7 @@
                 "url": "-",
                 "language": "-",
                 "email": "-",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -4005,7 +3971,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ArtsSpace",
+                "name": "Artspace",
                 "address": "3-378 Aylmer Street North",
                 "city": "Peterborough",
                 "province": "Ontaria",
@@ -4025,7 +3991,7 @@
                 "url": "artspace-arc.org",
                 "language": "EN",
                 "email": "gallery@artspaceptbo.ca",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -4059,7 +4025,7 @@
                 "url": "https://www.atelierimago.com/",
                 "language": "FR",
                 "email": "direction@atelierimago.com",
-                "established": ""
+                "established": "1986"
             },
             "geometry": {
                 "type": "Point",
@@ -4091,7 +4057,7 @@
                 "url": "-",
                 "language": "EN",
                 "email": "availablelightcollective@gmail.com",
-                "established": ""
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -4128,7 +4094,7 @@
                 "url": "https://avatarquebec.org/en/home/",
                 "language": "FR",
                 "email": "direction@avatarquebec.org",
-                "established": ""
+                "established": "1993"
             },
             "geometry": {
                 "type": "Point",
@@ -4157,7 +4123,7 @@
                 "url": "https://www.cafka.org/",
                 "language": "EN",
                 "email": "cafka@cafka.org",
-                "established": ""
+                "established": "2001"
             },
             "geometry": {
                 "type": "Point",
@@ -4188,7 +4154,7 @@
                 "url": "https://centre3.com/",
                 "language": "EN",
                 "email": "info@centre3.com",
-                "established": ""
+                "established": "2003"
             },
             "geometry": {
                 "type": "Point",
@@ -4221,7 +4187,7 @@
                 "url": "https://charlesstreetvideo.com",
                 "language": "EN",
                 "email": "csv@charlesstreetvideo.com",
-                "established": ""
+                "established": "1981"
             },
             "geometry": {
                 "type": "Point",
@@ -4256,7 +4222,7 @@
                 "url": "https://www.cineworks.ca/",
                 "language": "EN",
                 "email": "info@cineworks.ca",
-                "established": ""
+                "established": "1980"
             },
             "geometry": {
                 "type": "Point",
@@ -4286,7 +4252,7 @@
                 "url": "https://connexionarc.org/",
                 "language": "EN",
                 "email": "director@connexionarc.org",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -4325,7 +4291,7 @@
                 "url": "http://www.definitelysuperior.com/",
                 "language": "EN",
                 "email": "defsup@tbaytel.net",
-                "established": ""
+                "established": "1988"
             },
             "geometry": {
                 "type": "Point",
@@ -4357,7 +4323,7 @@
                 "url": "https://digitalartsresourcecentre.ca/",
                 "language": "EN",
                 "email": "admin@digitalartsresourcecentre.ca",
-                "established": ""
+                "established": "2001"
             },
             "geometry": {
                 "type": "Point",
@@ -4391,7 +4357,7 @@
                 "url": "https://edvideo.org/",
                 "language": "EN",
                 "email": "sarafina@edvideo.org",
-                "established": ""
+                "established": "1976"
             },
             "geometry": {
                 "type": "Point",
@@ -4404,7 +4370,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Espace F",
+                "name": "Espaces F",
                 "address": "102-520, avenue Saint-Jérôme",
                 "city": "Matane",
                 "province": "Québec",
@@ -4422,7 +4388,7 @@
                 "url": "https://espacesf.org/",
                 "language": "FR",
                 "email": "info@espacesf.org",
-                "established": ""
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -4456,7 +4422,7 @@
                 "url": "https://www.factorymediacentre.ca/",
                 "language": "EN",
                 "email": "info@factorymediacentre.ca",
-                "established": ""
+                "established": "2004"
             },
             "geometry": {
                 "type": "Point",
@@ -4485,7 +4451,7 @@
                 "url": "https://performanceart.ca/",
                 "language": "EN",
                 "email": "info@performanceart.ca",
-                "established": ""
+                "established": "2001"
             },
             "geometry": {
                 "type": "Point",
@@ -4519,7 +4485,7 @@
                 "url": "https://www.forestcitygallery.com/",
                 "language": "EN",
                 "email": "info@forestcitygallery.com",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -4560,7 +4526,7 @@
                 "url": "https://gn-o.org/",
                 "language": "FR/EN",
                 "email": "info@gn-o.org",
-                "established": ""
+                "established": "1995"
             },
             "geometry": {
                 "type": "Point",
@@ -4573,7 +4539,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Gallery 101/Gallerie 101 - Arists' Centre D'Artistes INC. (G101)",
+                "name": "Gallery 101 / Gallerie 101",
                 "address": "280 Catherine Street",
                 "city": "Ottawa",
                 "province": "Ontaria",
@@ -4600,7 +4566,7 @@
                 "url": "https://g101.ca/",
                 "language": "FR/EN",
                 "email": "office@g101.ca",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -4632,7 +4598,7 @@
                 "url": "https://gallery1313.org/",
                 "language": "EN",
                 "email": "director@g1313.org",
-                "established": ""
+                "established": "1998"
             },
             "geometry": {
                 "type": "Point",
@@ -4662,7 +4628,7 @@
                 "url": "https://www.gallery44.org/",
                 "language": "EN",
                 "email": "alana@gallery44.org",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -4692,7 +4658,7 @@
                 "url": "https://www.gallerytpw.ca/",
                 "language": "EN",
                 "email": "info@gallerytpw.ca",
-                "established": ""
+                "established": "1977"
             },
             "geometry": {
                 "type": "Point",
@@ -4729,7 +4695,7 @@
                 "url": "https://grunt.ca/",
                 "language": "EN",
                 "email": "arlo@grunt.ca",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -4768,7 +4734,7 @@
                 "url": "https://www.theinc.ca/",
                 "language": "EN",
                 "email": "info@theinc.ca",
-                "established": ""
+                "established": "1975"
             },
             "geometry": {
                 "type": "Point",
@@ -4803,7 +4769,7 @@
                 "url": "https://harcourthouse.ab.ca/",
                 "language": "EN",
                 "email": "info@harcourthouse.ab.ca",
-                "established": ""
+                "established": "1988"
             },
             "geometry": {
                 "type": "Point",
@@ -4834,7 +4800,7 @@
                 "url": "https://imaginenative.org/",
                 "language": "EN",
                 "email": "info@imagineNATIVE.org",
-                "established": ""
+                "established": "1998"
             },
             "geometry": {
                 "type": "Point",
@@ -4847,7 +4813,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Indigenous Curatorial Collective/Collectif Des Commisairs Autochtones",
+                "name": "Indigenous Curatorial Collective/Collectif des Commissaires Autochtones",
                 "address": "264 – 401 Richmond Street West",
                 "city": "Toronto",
                 "province": "Ontaria",
@@ -4861,7 +4827,7 @@
                 "url": "https://icca.art",
                 "language": "EN",
                 "email": "info@icca.art",
-                "established": ""
+                "established": "2006"
             },
             "geometry": {
                 "type": "Point",
@@ -4874,7 +4840,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Le Centre D'Artistes Voix Visuelle",
+                "name": "Le Centre d'artistes Voix Visuelle",
                 "address": "67, avenue Beechwood, 2e étage",
                 "city": "Ottawa",
                 "province": "Ontaria",
@@ -4893,7 +4859,7 @@
                 "url": "https://voixvisuelle.ca/fr/",
                 "language": "FR/EN",
                 "email": "-",
-                "established": ""
+                "established": "2007"
             },
             "geometry": {
                 "type": "Point",
@@ -4906,7 +4872,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Le Laboratoire D'Art - Le Labo INC.",
+                "name": "Le Laboratoire d'art - Le Labo INC.",
                 "address": "277-401 Richmond Street West",
                 "city": "Toronto",
                 "province": "Ontaria",
@@ -4930,7 +4896,7 @@
                 "url": "http://lelabo.ca/fr/",
                 "language": "FR/EN",
                 "email": "info@lelabo.ca",
-                "established": ""
+                "established": "2006"
             },
             "geometry": {
                 "type": "Point",
@@ -4965,7 +4931,7 @@
                 "url": "-",
                 "language": "EN",
                 "email": "livedspace@livedspace.org",
-                "established": ""
+                "established": "2011"
             },
             "geometry": {
                 "type": "Point",
@@ -5000,7 +4966,7 @@
                 "url": "https://artdelabaie.blogspot.com/",
                 "language": "FR",
                 "email": "cab@usainteanne.ca",
-                "established": ""
+                "established": "-"
             },
             "geometry": {
                 "type": "Point",
@@ -5040,7 +5006,7 @@
                 "url": "https://mawa.ca/",
                 "language": "EN",
                 "email": "info@mawa.ca",
-                "established": ""
+                "established": "1984"
             },
             "geometry": {
                 "type": "Point",
@@ -5073,7 +5039,7 @@
                 "url": "https://www.mercerunion.org/",
                 "language": "EN",
                 "email": "office@mercerunion.org",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",
@@ -5105,7 +5071,7 @@
                 "url": "https://ministryofcasualliving.ca/",
                 "language": "EN",
                 "email": "ministryofcasualliving@gmail.com",
-                "established": ""
+                "established": "2002"
             },
             "geometry": {
                 "type": "Point",
@@ -5118,7 +5084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Modern Fuel Artist-Run Centre",
+                "name": "Cultivate Art Commons",
                 "address": "#305-370 King St. W",
                 "city": "Kingston",
                 "province": "Ontaria",
@@ -5143,7 +5109,7 @@
                 "url": "https://www.modernfuel.org/",
                 "language": "EN",
                 "email": "director@modernfuel.org",
-                "established": ""
+                "established": "1977"
             },
             "geometry": {
                 "type": "Point",
@@ -5174,7 +5140,7 @@
                 "url": "https://www.n2m2l.ca/",
                 "language": "EN",
                 "email": "mobilemedialab@gmail.com",
-                "established": ""
+                "established": "2004"
             },
             "geometry": {
                 "type": "Point",
@@ -5211,7 +5177,7 @@
                 "url": "https://nac.org/",
                 "language": "EN",
                 "email": "artists@nac.org",
-                "established": ""
+                "established": "1969"
             },
             "geometry": {
                 "type": "Point",
@@ -5244,7 +5210,7 @@
                 "url": "https://www.alternatorcentre.com/",
                 "language": "EN",
                 "email": "info@alternatorcentre.com",
-                "established": ""
+                "established": "1987"
             },
             "geometry": {
                 "type": "Point",
@@ -5285,7 +5251,7 @@
                 "url": "https://www.onmaingallery.ca/",
                 "language": "EN",
                 "email": "admin@onmaingallery.ca",
-                "established": ""
+                "established": "1985"
             },
             "geometry": {
                 "type": "Point",
@@ -5320,7 +5286,7 @@
                 "url": "https://openstudio.ca/",
                 "language": "EN",
                 "email": "office@openstudio.ca",
-                "established": ""
+                "established": "1970"
             },
             "geometry": {
                 "type": "Point",
@@ -5356,7 +5322,7 @@
                 "url": "https://www.pavedarts.ca/",
                 "language": "EN",
                 "email": "artistic@pavedarts.ca",
-                "established": ""
+                "established": "2003"
             },
             "geometry": {
                 "type": "Point",
@@ -5389,7 +5355,7 @@
                 "url": "https://pdome.org/",
                 "language": "EN",
                 "email": "pleasuredomemanager@gmail.com",
-                "established": ""
+                "established": "1989"
             },
             "geometry": {
                 "type": "Point",
@@ -5416,7 +5382,7 @@
                 "url": "https://propellerartgallery.com/",
                 "language": "EN",
                 "email": "info@propellerartgallery.com",
-                "established": ""
+                "established": "1996"
             },
             "geometry": {
                 "type": "Point",
@@ -5456,7 +5422,7 @@
                 "url": "https://sakewewak.ca/",
                 "language": "EN",
                 "email": "ExecutiveDirector@sakewewak.ca",
-                "established": ""
+                "established": "1996"
             },
             "geometry": {
                 "type": "Point",
@@ -5494,7 +5460,7 @@
                 "url": "https://www.filmpool.ca/",
                 "language": "EN",
                 "email": "president@filmpool.ca",
-                "established": ""
+                "established": "1977"
             },
             "geometry": {
                 "type": "Point",
@@ -5525,7 +5491,7 @@
                 "url": "https://savac.net/",
                 "language": "EN",
                 "email": "info@savac.net",
-                "established": ""
+                "established": "1993"
             },
             "geometry": {
                 "type": "Point",
@@ -5563,7 +5529,7 @@
                 "url": "https://saw-centre.com/",
                 "language": "FR/EN",
                 "email": "info@saw-centre.com",
-                "established": ""
+                "established": "1973"
             },
             "geometry": {
                 "type": "Point",
@@ -5576,7 +5542,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Second Story Art Society O/A Truck Contemporary Art in Calgary",
+                "name": "TRUCK Contemporary Art",
                 "address": "2009 10th Avenue Southeast",
                 "city": "Calgary",
                 "province": "Alberta",
@@ -5597,7 +5563,7 @@
                 "url": "https://www.truck.ca/",
                 "language": "EN",
                 "email": "hello@truck.ca",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +5599,7 @@
                 "url": "https://snapartists.com/",
                 "language": "EN",
                 "email": "snap@snapartists.com",
-                "established": ""
+                "established": "1982"
             },
             "geometry": {
                 "type": "Point",
@@ -5671,7 +5637,7 @@
                 "url": "https://www.thebows.org/",
                 "language": "EN",
                 "email": "info@thebows.org",
-                "established": ""
+                "established": "1994"
             },
             "geometry": {
                 "type": "Point",
@@ -5701,7 +5667,7 @@
                 "url": "https://www.ifco.ca/",
                 "language": "EN",
                 "email": "board@ifco.ca",
-                "established": ""
+                "established": "1991"
             },
             "geometry": {
                 "type": "Point",
@@ -5731,7 +5697,7 @@
                 "url": "https://www.redheadgallery.org/",
                 "language": "EN",
                 "email": "info@redheadgallery.org",
-                "established": ""
+                "established": "1990"
             },
             "geometry": {
                 "type": "Point",
@@ -5768,7 +5734,7 @@
                 "url": "https://thirdspacegallery.ca/",
                 "language": "EN/FR",
                 "email": "tiersespace@gmail.com",
-                "established": ""
+                "established": "1997"
             },
             "geometry": {
                 "type": "Point",
@@ -5799,45 +5765,13 @@
                 "url": "https://www.reelasian.com/",
                 "language": "EN",
                 "email": "info@reelasian.com",
-                "established": ""
+                "established": "1997"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -79.39485558917751,
                     43.648085917473686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Tribe, A Centre for Evolving Aboriginal Media, Visual & Performing Arts INC.",
-                "address": "805-601 Spadina Crescent East",
-                "city": "Saskatoon",
-                "province": "Saskatchewan",
-                "postalCode": "S7K 3G8",
-                "phone": "306-244-4814",
-                "discipline": [
-                    "Media and Digital Arts",
-                    "Performance and Live Arts",
-                    "Visual Arts"
-                ],
-                "centreType": "No Fixed Location",
-                "association": [
-                    "Aboriginal Region",
-                    "Plains Artist-Run Centres Association (PARCA)"
-                ],
-                "url": "-",
-                "language": "-",
-                "email": "-",
-                "established": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.65890173044728,
-                    52.1261355532701
                 ]
             }
         },
@@ -5869,7 +5803,7 @@
                 "url": "https://www.urbanshaman.org/",
                 "language": "EN",
                 "email": "info@urbanshaman.org",
-                "established": ""
+                "established": "1996"
             },
             "geometry": {
                 "type": "Point",
@@ -5904,7 +5838,7 @@
                 "url": "https://vtape.org/",
                 "language": "EN",
                 "email": "info@vtape.org",
-                "established": ""
+                "established": "1983"
             },
             "geometry": {
                 "type": "Point",
@@ -5941,7 +5875,7 @@
                 "url": "-",
                 "language": "EN",
                 "email": "-",
-                "established": ""
+                "established": "2003"
             },
             "geometry": {
                 "type": "Point",
@@ -5975,7 +5909,7 @@
                 "url": "https://whippersnapper.ca/",
                 "language": "EN",
                 "email": "general@whippersnapper.ca",
-                "established": ""
+                "established": "2004"
             },
             "geometry": {
                 "type": "Point",
@@ -6013,7 +5947,7 @@
                 "url": "https://whitewatergallery.com/",
                 "language": "EN",
                 "email": "info@whitewatergallery.com",
-                "established": ""
+                "established": "1974"
             },
             "geometry": {
                 "type": "Point",
@@ -6051,7 +5985,7 @@
                 "url": "http://www.yyzartistsoutlet.org",
                 "language": "EN",
                 "email": "yyz@yyzartistsoutlet.org",
-                "established": ""
+                "established": "1979"
             },
             "geometry": {
                 "type": "Point",

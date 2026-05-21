@@ -35,9 +35,9 @@ var markers = L.markerClusterGroup({
         var max = 37;
         // Defining ARCA colors
         // Blue
-        var r1 = 0, g1 = 68, b1 = 136;
+        var r1 = 0, g1 = 0, b1 = 144;
         // Orange
-        var r2 = 255, g2 = 102, b2 = 0;
+        var r2 = 255, g2 = 60, b2 = 0;
         // Calculating lerp color based on cluster size
         var t = (count - min) / (max - min);
         // Clamp t between 0 and 1 to prevent math errors if a cluster exceeds 33
@@ -253,8 +253,13 @@ function renderMap(featuresToRender) {
             const hoverHTML = `
                 <div class="arca-hover-content">
                     <div class="hover-header">
-                        <div class="hover-title">${props.name}</div>
-                        <div class="hover-city">[ ${props.address ? props.address + ', ' : ''}
+
+    <div class="hover-title-row">
+        <div class="hover-title">${props.name}</div>
+        <div class="hover-est">EST ${props.established}</div>
+    </div>
+    
+    <div class="hover-city">[ ${props.address ? props.address + ', ' : ''}
                             <span class="clickable-tag" data-filter-type="city" data-value="${props.city}" style="cursor: pointer; text-decoration: underline;">${props.city}</span>, ${props.province} ]
                         </div>
                     </div>
@@ -287,7 +292,7 @@ function renderMap(featuresToRender) {
                     ` : ''}
 
                     <div class="hover-footer">
-                        <div class="hover-association">${props.association}</div>
+                        <div class="hover-association" style="white-space: pre-wrap;">${Array.isArray(props.association) ? props.association.join('\t') : (props.association || '')}</div>
                     </div>
                 </div>
             `;
@@ -360,19 +365,7 @@ document.getElementById('collapseBtn').addEventListener('click', function () {
 //
 
 // Filter reset button
-document.getElementById('resetFiltersBtn').addEventListener('click', function () {
-    // Empties the text search bars
-    document.getElementById('searchName').value = '';
-    document.getElementById('searchCity').value = '';
-
-    // Unchecks all checkboxes
-    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-        checkbox.checked = false;
-    });
-
-    // Re-run the filter logic to refresh the map with all points
-    applyFilters();
-});
+document.getElementById('resetFiltersBtn').addEventListener('click', clearAllFilters);
 
 // Function to read the inputs and filter the map
 function applyFilters() {
@@ -474,3 +467,25 @@ var resetMapControl = L.Control.extend({
 
 // Adding the custom control to your map instance
 map.addControl(new resetMapControl());
+//--------------------------------------------------
+
+// Function to clear all inputs and reset the map
+function clearAllFilters() {
+    // 1. Clear text search bars
+    document.getElementById('searchName').value = '';
+    document.getElementById('searchCity').value = '';
+
+    // 2. Uncheck all checkboxes
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
+
+    // 3. Update the map to reflect the cleared filters
+    // (Assuming applyFilters() is available in your global scope)
+    if (typeof applyFilters === 'function') {
+        applyFilters();
+    }
+}
+
+// Trigger the reset function automatically when the page reloads
+window.addEventListener('DOMContentLoaded', clearAllFilters);

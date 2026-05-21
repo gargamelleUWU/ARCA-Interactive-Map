@@ -4,38 +4,22 @@ html {
     padding: 0;
     height: 100%;
     background-color: #000;
-    /* NEW Properties */
-    display: flex;
-    flex-direction: row;
 }
 
 /* --- Entire Filter Section --- */
 .map-controls {
     background-color: #ffffff;
-    width: 15%;
     color: #000000;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     padding: 15px;
     display: flex;
     flex-direction: column;
-    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.8);
-}
-
-/* The actual map */
-#map {
-    width: 100%;
-    height: 100%;
-    /*making map take entire viewport width*/
-    aspect-ratio: 16/9;
-    border: 2px solid #ffffff;
-    box-sizing: border-box;
-    z-index: 1;
+    gap: 5px;
 }
 
 /* Buttons next to search box */
 .arca-btn {
     padding: 4px 10px;
-    width: 95px;
     border-radius: 50px;
     font-size: 0.65rem;
     text-transform: uppercase;
@@ -57,10 +41,21 @@ html {
     /* Subtle visual "sink" effect on click */
 }
 
+/* The actual map */
+#map {
+    width: 100%;
+    /*making map take entire viewport width*/
+    aspect-ratio: 16/9;
+    min-height: 400px;
+    max-height: 83vh;
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
 /* Row holding the search boxes */
 .search-row {
     display: flex;
-    flex-direction: column;
     gap: 5px;
 }
 
@@ -93,7 +88,6 @@ html {
 
 /* Titles showing "Disciplines" and "Centre Type" */
 .filter-title {
-    margin-top: 10px;
     font-size: 0.7rem;
     /* Smaller titles */
     font-weight: bold;

@@ -229,12 +229,16 @@ function renderMap(featuresToRender) {
             // Function that turns arrays into HTML span tags
             const createTags = (arr, className) => {
                 if (!arr || !Array.isArray(arr)) return '';
+
+                // Only add 'clickable-tag' if the class is NOT 'tag-contact'
+                const clickClass = className === 'tag-contact' ? '' : 'clickable-tag';
+
                 return arr.map(item => `
-                    <span class="arca-tag clickable-tag ${className}" 
-                          data-filter-type="${className}" 
-                          data-value="${item}">
-                        ${item}
-                    </span>`).join('');
+        <span class="arca-tag ${clickClass} ${className}" 
+              data-filter-type="${className}" 
+              data-value="${item}">
+            ${item}
+        </span>`).join('');
             };
 
             /* Cusing createTags on the arrays holding the information */
@@ -325,6 +329,30 @@ function renderMap(featuresToRender) {
     markers.addLayer(geojsonLayer);
     map.addLayer(markers);
 }
+
+//
+// Sidebar Collapse Logic
+//
+document.getElementById('collapseBtn').addEventListener('click', function () {
+    const sidebar = document.getElementById('sidebar-wrapper');
+    const btn = document.getElementById('collapseBtn');
+
+    // Toggle the collapsed class
+    sidebar.classList.toggle('collapsed');
+
+    // Swap the arrow icon direction
+    if (sidebar.classList.contains('collapsed')) {
+        btn.innerHTML = '▶';
+    } else {
+        btn.innerHTML = '◀';
+    }
+
+    // Tell Leaflet the container size has changed. 
+    // We wait 300ms for the CSS sliding animation to completely finish first.
+    setTimeout(() => {
+        map.invalidateSize();
+    }, 300);
+});
 // -------------------------------------------------------------
 
 //

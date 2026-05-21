@@ -1,10 +1,14 @@
-body,
 html {
     margin: 0;
     padding: 0;
     height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
     background-color: #000;
-    /* NEW Properties */
     display: flex;
     flex-direction: row;
 }
@@ -12,24 +16,74 @@ html {
 /* --- Entire Filter Section --- */
 .map-controls {
     background-color: #ffffff;
-    width: 15%;
     color: #000000;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     padding: 15px;
     display: flex;
     flex-direction: column;
-    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.8);
+
+    /* These changed to fill the wrapper instead of the screen */
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    box-sizing: border-box;
+
+    /* Keeps the shadow on the main white box */
+    box-shadow: 4px 0px 12px rgba(0, 0, 0, 0.4);
 }
 
 /* The actual map */
 #map {
-    width: 100%;
-    height: 100%;
-    /*making map take entire viewport width*/
-    aspect-ratio: 16/9;
     border: 2px solid #ffffff;
     box-sizing: border-box;
     z-index: 1;
+
+    flex-grow: 1;
+    width: 100%;
+    /* Safety net for Leaflet inside Flexbox */
+    height: 100vh;
+}
+
+.sidebar-wrapper {
+    position: relative;
+    width: 250px;
+    min-width: 250px;
+    height: 100vh;
+    transition: margin-left 0.3s ease;
+    /* Animate the slide */
+    z-index: 1000;
+    /* Keeps the sidebar and button above the map */
+}
+
+.sidebar-wrapper.collapsed {
+    margin-left: -250px;
+}
+
+.collapse-toggle {
+    position: absolute;
+    top: 50%;
+    right: -30px;
+    /* Pushes the button exactly outside the right edge */
+    transform: translateY(-50%);
+    width: 30px;
+    height: 60px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 0 60px 60px 0;
+    /* Creates the right-facing semi-circle */
+    box-shadow: 4px 0px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    font-size: 14px;
+    color: #000;
+
+    /* z-index -1 tucks the flat left edge of the button cleanly UNDER the 
+       sidebar, so they look perfectly fused together */
+    z-index: -1;
+    transition: background-color 0.2s ease;
+}
+
+.collapse-toggle:hover {
+    background-color: #efefef;
 }
 
 /* Buttons next to search box */
@@ -67,7 +121,8 @@ html {
 /* Slimmer search bars */
 .search-row input {
     width: 100%;
-    max-width: 200px;
+    /* ADDED box-sizing to prevent padding from causing overflow */
+    box-sizing: border-box;
     padding: 6px 14px;
     font-size: 0.85rem;
     font-family: inherit;
@@ -189,8 +244,11 @@ html {
 /*Styling the text inside custom HTML structure */
 /* Container formatting */
 .arca-hover-content {
-    min-width: 450px;
-    max-width: 550px;
+    /* REPLACED min-width WITH THESE: */
+    width: 450px;
+    max-width: 85vw;
+    /* Never exceeds screen width */
+
     max-height: 50vh;
     overflow-y: auto;
     display: flex;
@@ -316,8 +374,9 @@ html {
 /* --- Cluster Hover Specifics --- */
 
 .cluster-hover-container {
-    min-width: 280px !important;
-    max-width: 350px !important;
+    /* REPLACED min-width WITH THESE: */
+    width: 280px !important;
+    max-width: 85vw !important;
 }
 
 .cluster-names-list {
